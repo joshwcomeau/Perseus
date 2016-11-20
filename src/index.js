@@ -1,9 +1,39 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
-import App from './App';
-import './index.css';
+import { render } from 'react-dom';
+import { Provider } from 'react-redux';
+import { BrowserRouter as Router, Match, Miss } from 'react-router';
+import injectTapEventPlugin from 'react-tap-event-plugin';
 
-ReactDOM.render(
-  <App />,
+import configureStore from './store';
+
+import App from './components/App';
+import Header from './components/Header';
+import Home from './components/Home';
+import StargazerInfo from './components/StargazerInfo';
+
+// Needed for onTouchTap
+// http://stackoverflow.com/a/34015469/988941
+injectTapEventPlugin();
+
+const store = configureStore();
+
+render(
+  <Provider store={store}>
+    <Router>
+      <App>
+        <Match exactly pattern="/" component={Home} />
+
+        <Match
+          pattern="/examine/:username/:repo"
+          render={({ params }) => (
+            <div>
+              <Header {...params} />
+
+              <StargazerInfo {...params} />
+            </div>
+          )}
+        />
+    </Router>
+  </Provider>,
   document.getElementById('root')
 );
