@@ -7,7 +7,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "add-component": "NODE_ENV=development node tools/add-component/index.js"
+    "add-component": "NODE_ENV=development node tools/add-component/index.js",
+    "storybook": "start-storybook -p 9009 -s public",
+    "build-storybook": "build-storybook -s public"
   },
   "dependencies": {
     "aphrodite": "^1.1.0",
@@ -25,6 +27,7 @@
     "react-scripts": "0.7.0",
     "redux-devtools": "^3.3.1",
     "redux-devtools-dock-monitor": "^1.1.1",
-    "redux-devtools-log-monitor": "^1.1.1"
+    "redux-devtools-log-monitor": "^1.1.1",
+    "@kadira/storybook": "^2.21.0"
   }
 }
