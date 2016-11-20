@@ -2,17 +2,26 @@
   "name": "stargazers",
   "version": "0.1.0",
   "private": true,
-  "devDependencies": {
-    "react-scripts": "0.7.0"
-  },
-  "dependencies": {
-    "react": "^15.4.0",
-    "react-dom": "^15.4.0"
-  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "add-component": "NODE_ENV=development node tools/add-component/index.js"
+  },
+  "dependencies": {
+    "aphrodite": "^1.1.0",
+    "apollo-client": "^0.5.6",
+    "react": "^15.4.0",
+    "react-apollo": "^0.6.0",
+    "react-dom": "^15.4.0",
+    "react-redux": "^4.4.6",
+    "react-router": "^4.0.0-alpha.5",
+    "react-tap-event-plugin": "^2.0.1",
+    "redux": "^3.6.0"
+  },
+  "devDependencies": {
+    "change-case": "^3.0.0",
+    "react-scripts": "0.7.0"
   }
 }
