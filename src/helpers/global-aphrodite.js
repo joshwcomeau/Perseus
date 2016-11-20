@@ -1,4 +1,4 @@
-import { StyleSheet as originalStyleSheet } from '../../helpers/global-aphrodite';
+import { StyleSheet as originalStyleSheet } from 'aphrodite/no-important';
 
 export const globalSelectorHandler = (selector, _, generateSubtreeStyles) => {
   if (selector[0] !== '*') {

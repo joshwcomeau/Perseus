@@ -1,7 +1,7 @@
 import React from 'react';
 import { render } from 'react-dom';
 import { Provider } from 'react-redux';
-import { BrowserRouter as Router, Match, Miss } from 'react-router';
+import { BrowserRouter as Router, Match } from 'react-router';
 import injectTapEventPlugin from 'react-tap-event-plugin';
 
 import configureStore from './store';
@@ -33,6 +33,7 @@ render(
             </div>
           )}
         />
+      </App>
     </Router>
   </Provider>,
   document.getElementById('root')
