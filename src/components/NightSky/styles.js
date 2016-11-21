@@ -3,6 +3,7 @@ import { StyleSheet } from '../../helpers/global-aphrodite';
 export default StyleSheet.create({
   nightSky: {
     position: 'absolute',
+    zIndex: -1,
     top: 0,
     left: 0,
     right: 0,
