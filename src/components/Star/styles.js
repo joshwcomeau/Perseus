@@ -1,6 +1,11 @@
 import { StyleSheet } from '../../helpers/global-aphrodite';
 
-export const animations = {
+export const fadeInAnimation = {
+  from: { opacity: 0 },
+  to: { opacity: 1 }
+};
+
+export const twinkleAnimations = {
   quickTwinkle: {
     '0%': { opacity: 0.5 },
     '90%': { opacity: 0.3 },
@@ -46,20 +51,24 @@ export const animations = {
   },
 };
 
-const animationStyles = Object.keys(animations).reduce((styles, name) => ({
-  [name]: { animationName: animations[name]},
+const animationStyles = Object.keys(twinkleAnimations).reduce((styles, name) => ({
+  [name]: { animationName: twinkleAnimations[name]},
   ...styles
 }));
 
-console.log(animationStyles)
-
 
 export default StyleSheet.create({
-  star: {
+  starContainer: {
     position: 'absolute',
+    animationFillMode: 'backwards',
+  },
+  star: {
     animationIterationCount: 'infinite',
     animationFillMode: 'both',
     animationTimingFunction: 'linear',
+  },
+  fadeIn: {
+    animationName: fadeInAnimation,
   },
   ...animationStyles,
 });

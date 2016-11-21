@@ -11,4 +11,8 @@ export default StyleSheet.create({
     backgroundColor: '#18181c',
     overflow: 'hidden',
   },
+
+  stars: {
+    opacity: 0.7,
+  },
 });

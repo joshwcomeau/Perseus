@@ -26,10 +26,10 @@ const NightSky = () => {
   ));
 
   return (
-    <div
-      className={css(styles.nightSky)}
-    >
-      {stars}
+    <div className={css(styles.nightSky)}>
+      <div className={css(styles.stars)}>
+        {stars}
+      </div>
     </div>
   );
 };
