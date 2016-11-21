@@ -1,10 +1,11 @@
 import React from 'react';
 import { render } from 'react-dom';
-import { Provider } from 'react-redux';
+import { ApolloProvider } from 'react-apollo';
 import { BrowserRouter as Router, Match } from 'react-router';
 import injectTapEventPlugin from 'react-tap-event-plugin';
 
 import configureStore from './store';
+import client from './helpers/graphql-client';
 
 import App from './components/App';
 import Header from './components/Header';
@@ -18,7 +19,7 @@ injectTapEventPlugin();
 const store = configureStore();
 
 render(
-  <Provider store={store}>
+  <ApolloProvider store={store} client={client}>
     <Router>
       <App>
         <Match exactly pattern="/" component={Home} />
@@ -35,6 +36,6 @@ render(
         />
       </App>
     </Router>
-  </Provider>,
+  </ApolloProvider>,
   document.getElementById('root')
 );

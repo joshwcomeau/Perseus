@@ -5,17 +5,18 @@ import { css } from '../../helpers/global-aphrodite';
 import Logo from '../Logo';
 import styles from './styles';
 
-
 class Home extends Component {
-  componentDidMount() {
+  componentWillMount() {
     this.formElements = {};
+
+    this.submitForm = this.submitForm.bind(this);
   }
 
   submitForm() {
-    this.props.getRepositoryInfo({
-      user: this.formElements.user.value,
-      repository: this.formElements.repo.value,
-    });
+    const user = this.formElements.user.value;
+    const repo = this.formElements.repo.value;
+
+    this.context.router.transitionTo(`${user}/${repo}`);
   }
 
   render() {
@@ -24,7 +25,7 @@ class Home extends Component {
         <Logo />
         <p>Learn about the people who've starred your repositories.</p>
 
-        <form onClick={this.submitForm}>
+        <form onSubmit={this.submitForm}>
           <input type="text" ref={elem => this.formElements.user = elem} />
           /
           <input type="text"ref={elem => this.formElements.repo = elem} />
@@ -41,6 +42,10 @@ Home.propTypes = {
 
 Home.defaultProps = {
 
+};
+
+Home.contextTypes = {
+  router: PropTypes.object,
 };
 
 export default Home;

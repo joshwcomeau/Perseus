@@ -1,11 +1,14 @@
 import { createStore, applyMiddleware, compose } from 'redux';
 
 import reducer from '../reducers';
+import client from '../helpers/graphql-client';
 import DevTools from '../components/DevTools';
 
 
 export default function configureStore() {
-  const middlewares = [];
+  const middlewares = [
+    client.middleware(),
+  ];
   const store = createStore(
     reducer,
     compose(
