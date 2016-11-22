@@ -7,16 +7,16 @@ export const fadeInAnimation = {
 
 export const twinkleAnimations = {
   quickTwinkle: {
-    '0%': { opacity: 0.5 },
-    '90%': { opacity: 0.3 },
+    '0%': { opacity: 0.8 },
+    '90%': { opacity: 0.8 },
     '92%': { opacity: 0.1 },
-    '100%': { opacity: 0.5 },
+    '100%': { opacity: 0.8 },
   },
   slowFade: {
-    '0%': { opacity: 0.5 },
-    '25%': { opacity: 0.1 },
-    '40%': { opacity: 0.3 },
-    '100%': { opacity: 0.5 },
+    '0%': { opacity: 0.75 },
+    '25%': { opacity: 0 },
+    '40%': { opacity: 0 },
+    '100%': { opacity: 0.75 },
   },
   pulse: {
     '0%': { opacity: 0.5},
@@ -35,7 +35,7 @@ export const twinkleAnimations = {
   blinkOut: {
     '0%': { opacity: 0.5 },
     '50%': { opacity: 0.5 },
-    '55%': { opacity: 0.1 },
+    '55%': { opacity: 0 },
     '100%': { opacity: 0.5 },
   },
   sideShift: {
@@ -49,6 +49,11 @@ export const twinkleAnimations = {
     '25%': { opacity: 0.2 },
     '100%': { opacity: 0.2 },
   },
+  grower: {
+    '0%': { opacity: 0.5, transform: 'scale(1)' },
+    '50%': { opacity: 0.75, transform: 'scale(2)' },
+    '100%': { opacity: 0.5, transform: 'scale(1)' },
+  },
 };
 
 const animationStyles = Object.keys(twinkleAnimations).reduce((styles, name) => ({
@@ -60,7 +65,6 @@ const animationStyles = Object.keys(twinkleAnimations).reduce((styles, name) => 
 export default StyleSheet.create({
   starContainer: {
     position: 'absolute',
-    animationFillMode: 'backwards',
   },
   star: {
     animationIterationCount: 'infinite',
@@ -69,6 +73,8 @@ export default StyleSheet.create({
   },
   fadeIn: {
     animationName: fadeInAnimation,
+    animationIterationCount: 1,
+    animationFillMode: 'both',
   },
   ...animationStyles,
 });
