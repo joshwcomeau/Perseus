@@ -12,11 +12,13 @@ class Home extends Component {
     this.submitForm = this.submitForm.bind(this);
   }
 
-  submitForm() {
+  submitForm(ev) {
+    ev.preventDefault();
+
     const user = this.formElements.user.value;
     const repo = this.formElements.repo.value;
 
-    this.context.router.transitionTo(`${user}/${repo}`);
+    this.context.router.transitionTo(`/examine/${user}/${repo}`);
   }
 
   render() {
