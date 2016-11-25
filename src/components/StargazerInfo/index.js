@@ -6,28 +6,54 @@ import { css } from '../../helpers/global-aphrodite';
 
 import styles from './styles';
 
-const fetchStargazers = gql`
-  query fetchStargazers($username: String!, $repo: String!) {
-    repository(name: $repo, owner: $username) {
-      stargazers(first: 30) {
+const fetchStargazersQuery = gql`
+  query fetchStargazers($username: String!, $reponame: String!, $after: String) {
+    repository(name: $reponame, owner: $username) {
+      stargazers(first: 30, after: $after) {
         edges {
           node {
+            id
             name
             bio
             company
           }
+        }
+        pageInfo {
+          endCursor
+          hasNextPage
         }
       }
     }
   }
 `;
 
+let page = 0;
 
-const StargazerInfo = ({ username, repo, data }) => {
-  console.log("GOT", data)
+const StargazerInfo = (props) => {
+  const { username, reponame, loading, repository, loadMoreStargazers } = props;
+
+  console.log("------RENDER------", props)
+  if (loading) {
+    console.log("Still loading...");
+    return <div>LOADING!</div>;
+  }
+
+  const {
+    stargazers: {
+      edges,
+      pageInfo,
+    },
+  } = repository;
+
+
+  if (repository.stargazers.pageInfo.hasNextPage) {
+    // Wait a second, and then request the next page.
+    window.setTimeout(loadMoreStargazers, 2000);
+  }
+
   return (
     <div className={css(styles.stargazerInfo)}>
-      Searching for {username}, {repo}
+      Searching for {username}, {reponame}
     </div>
   );
 };
@@ -37,7 +63,38 @@ StargazerInfo.propTypes = {
 };
 
 StargazerInfo.defaultProps = {
-
+  after: '',
 };
 
-export default graphql(fetchStargazers)(StargazerInfo);
+export default graphql(fetchStargazersQuery, {
+  props({ data }) {
+    return {
+      ...data,
+      loadMoreStargazers: () => {
+        const { variables, fetchMore, repository } = data;
+
+        return data.fetchMore({
+          query: fetchStargazersQuery,
+          variables: {
+            ...variables,
+            after: repository.stargazers.pageInfo.endCursor
+          },
+          updateQuery: (previousResult, { fetchMoreResult }) => {
+            // Merge the results together
+            return {
+              repository: {
+                stargazers: {
+                  edges: [
+                    ...previousResult.repository.stargazers.edges,
+                    ...fetchMoreResult.data.repository.stargazers.edges
+                  ],
+                  pageInfo: fetchMoreResult.data.repository.stargazers.pageInfo,
+                }
+              }
+            }
+          }
+        })
+      }
+    }
+  }
+})(StargazerInfo);

@@ -25,7 +25,7 @@ render(
         <Match exactly pattern="/" component={Home} />
 
         <Match
-          pattern="/examine/:username/:repo"
+          pattern="/examine/:username/:reponame"
           render={({ params }) => (
             <div>
               <Header {...params} />
