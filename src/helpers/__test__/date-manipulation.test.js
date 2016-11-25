@@ -9,8 +9,18 @@ describe('date-manipulation', () => {
       const expectedOutput = '2016-01-02';
 
       expect(actualOutput).toEqual(expectedOutput);
+    });
+
+    it('adds a single day to a UTC time string', () => {
+      const d = new Date('2016-03-17T12:25:50Z');
+
+      const actualOutput = getDateString(addDays(1)(d));
+      const expectedOutput = '2016-03-18';
+
+      expect(actualOutput).toEqual(expectedOutput);
+
     })
-  })
+  });
 
   describe('getDateString', () => {
     it('converts a date to a date string', () => {
@@ -30,5 +40,5 @@ describe('date-manipulation', () => {
 
       expect(actualOutput).toEqual(expectedOutput);
     });
-  })
-})
+  });
+});

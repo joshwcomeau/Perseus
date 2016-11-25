@@ -39,10 +39,15 @@ export const groupStargazersByDate = stargazers => (
 
     // If there is a gap, we need to fill it in.
     let cursor = previousEntry ? previousEntry.dateString : dateString;
-    while (cursor < dateString) {
+    let iterations = 0;
+    while (cursor < dateString && iterations < 30) {
+      console.log("Start cursor", cursor)
+      console.log("Without formatting", add1Day(cursor));
       cursor = formattedAdd1Day(cursor);
+      console.log("End cursor", cursor)
 
       acc.push({ dateString: cursor, stars: 0 });
+      iterations += 1;
     }
 
 

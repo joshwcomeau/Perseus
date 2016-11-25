@@ -2,6 +2,7 @@
 import React, { Component, PropTypes } from 'react';
 import { graphql } from 'react-apollo';
 import gql from 'graphql-tag';
+import { VictoryBar } from 'victory';
 
 import {
   selectStargazers,
@@ -42,8 +43,6 @@ const StargazerInfo = (props) => {
     return <div>LOADING!</div>;
   }
 
-  console.log("REPO", repository)
-
   const stargazers = selectStargazers(repository);
   const { hasNextPage } = repository.stargazers.pageInfo;
 
@@ -54,11 +53,9 @@ const StargazerInfo = (props) => {
 
   const stargazersByDate = groupStargazersByDate(stargazers);
 
-  console.log("Extracted date stargazers", stargazersByDate)
-
   return (
     <div className={css(styles.stargazerInfo)}>
-      Searching for {username}, {reponame}
+      <VictoryBar data={stargazersByDate} x="dateString" y="stars" />
     </div>
   );
 };
