@@ -2,6 +2,11 @@
 import React, { Component, PropTypes } from 'react';
 import { graphql } from 'react-apollo';
 import gql from 'graphql-tag';
+
+import {
+  selectStargazers,
+  groupStargazersByDate
+} from '../../helpers/data-selectors';
 import { css } from '../../helpers/global-aphrodite';
 
 import styles from './styles';
@@ -11,6 +16,7 @@ const fetchStargazersQuery = gql`
     repository(name: $reponame, owner: $username) {
       stargazers(first: 30, after: $after) {
         edges {
+          starredAt
           node {
             id
             name
@@ -32,24 +38,23 @@ let page = 0;
 const StargazerInfo = (props) => {
   const { username, reponame, loading, repository, loadMoreStargazers } = props;
 
-  console.log("------RENDER------", props)
   if (loading) {
-    console.log("Still loading...");
     return <div>LOADING!</div>;
   }
 
-  const {
-    stargazers: {
-      edges,
-      pageInfo,
-    },
-  } = repository;
+  console.log("REPO", repository)
 
+  const stargazers = selectStargazers(repository);
+  const { hasNextPage } = repository.stargazers.pageInfo;
 
-  if (repository.stargazers.pageInfo.hasNextPage) {
+  if (hasNextPage) {
     // Wait a second, and then request the next page.
     window.setTimeout(loadMoreStargazers, 2000);
   }
+
+  const stargazersByDate = groupStargazersByDate(stargazers);
+
+  console.log("Extracted date stargazers", stargazersByDate)
 
   return (
     <div className={css(styles.stargazerInfo)}>
