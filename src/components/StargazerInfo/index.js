@@ -2,11 +2,11 @@
 import React, { Component, PropTypes } from 'react';
 import { graphql } from 'react-apollo';
 import gql from 'graphql-tag';
-import { VictoryBar } from 'victory';
+import { VictoryBar, VictoryChart } from 'victory';
 
 import {
   selectStargazers,
-  groupStargazersByDate
+  groupStargazersByWeek
 } from '../../helpers/data-selectors';
 import { css } from '../../helpers/global-aphrodite';
 
@@ -51,11 +51,21 @@ const StargazerInfo = (props) => {
     window.setTimeout(loadMoreStargazers, 2000);
   }
 
-  const stargazersByDate = groupStargazersByDate(stargazers);
+  const stargazersByDate = groupStargazersByWeek(stargazers);
+  console.log("DATA", stargazersByDate)
 
   return (
     <div className={css(styles.stargazerInfo)}>
-      <VictoryBar data={stargazersByDate} x="dateString" y="stars" />
+      <VictoryChart
+        domainPadding={{ x: 20 }}
+        animate={{ duration: 500 }}
+      >
+        <VictoryBar
+          data={stargazersByDate}
+          x="dateString"
+          y="stars"
+        />
+      </VictoryChart>
     </div>
   );
 };

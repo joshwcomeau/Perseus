@@ -1,11 +1,10 @@
 // Set of helper functions to pluck and format data out of graphql responses
 import { compose } from 'redux';
+import moment from 'moment';
 import last from 'lodash/last';
-import { getDateString, addDays } from './date-manipulation';
 
 
-const add1Day = addDays(1);
-const formattedAdd1Day = compose(getDateString, add1Day);
+const dateLabelFormat = 'MMM Do, YYYY';
 
 // Get an array of stargazers from the response
 export const selectStargazers = repository => (
@@ -15,10 +14,10 @@ export const selectStargazers = repository => (
   }))
 );
 
-export const groupStargazersByDate = stargazers => (
+export const groupStargazersByWeek = stargazers => (
   stargazers.reduce((acc, stargazer) => {
-    const date = new Date(stargazer.starredAt);
-    const dateString = getDateString(date);
+    const startOfWeek = moment(stargazer.starredAt).startOf('week');
+    const dateString = startOfWeek.format(dateLabelFormat);
     const previousEntry = last(acc);
 
     // If this is the first run, create our first entry
@@ -38,21 +37,20 @@ export const groupStargazersByDate = stargazers => (
     }
 
     // If there is a gap, we need to fill it in.
-    let cursor = previousEntry ? previousEntry.dateString : dateString;
+    let m = moment;
+    const previousDateString = previousEntry ? previousEntry.dateString : dateString;
+    let cursor = moment(previousDateString, dateLabelFormat);
     let iterations = 0;
-    while (cursor < dateString && iterations < 30) {
-      console.log("Start cursor", cursor)
-      console.log("Without formatting", add1Day(cursor));
-      cursor = formattedAdd1Day(cursor);
-      console.log("End cursor", cursor)
 
-      acc.push({ dateString: cursor, stars: 0 });
+    while (cursor.isBefore(startOfWeek) && iterations < 30) {
+      cursor.add(1, 'week');
+
+      acc.push({ dateString: cursor.format(dateLabelFormat), stars: 0 });
       iterations += 1;
     }
-
 
     last(acc).stars += 1;
 
     return acc;
   }, [])
-)
+);
