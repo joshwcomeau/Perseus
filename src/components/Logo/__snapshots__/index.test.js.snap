@@ -1,0 +1,6 @@
+exports[`Logo renders correctly 1`] = `
+<h2
+  className="logo_1d4z0p1">
+  Perseus
+</h2>
+`;

@@ -1,0 +1,6291 @@
+exports[`App renders correctly 1`] = `
+<div
+  className="globals_dayg07">
+  <div
+    className="nightSky_1e42zbg">
+    <div
+      className="stars_ibmdqp">
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "548ms",
+            "animationDuration": "1470ms",
+            "left": "74.49818954824532%",
+            "top": "58.311861759721964%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-slowFade_qlxf0z"
+          height={4.512917711064263}
+          style={
+            Object {
+              "animationDelay": "112ms",
+              "animationDuration": "11.916315545299254s",
+            }
+          }
+          width={4.512917711064263}>
+          <filter
+            height="1000%"
+            id="blur-star-0"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.47045764893848296} />
+          </filter>
+          <circle
+            cx={2.2564588555321317}
+            cy={2.2564588555321317}
+            fill="white"
+            filter="url(#blur-star-0)"
+            r={0.752152951844044}
+            stroke="#281f60"
+            strokeWidth={0.5236656304961251} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "412ms",
+            "animationDuration": "2334ms",
+            "left": "27.001206581659503%",
+            "top": "76.2467020058655%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-blinkOut_1l6jjxy"
+          height={5.566706250902875}
+          style={
+            Object {
+              "animationDelay": "126ms",
+              "animationDuration": "18.99732163658374s",
+            }
+          }
+          width={5.566706250902875}>
+          <filter
+            height="1000%"
+            id="blur-star-1"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.3303497157737383} />
+          </filter>
+          <circle
+            cx={2.7833531254514376}
+            cy={2.7833531254514376}
+            fill="white"
+            filter="url(#blur-star-1)"
+            r={0.9277843751504792}
+            stroke="#281f60"
+            strokeWidth={0.32707079796303007} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "333ms",
+            "animationDuration": "3355ms",
+            "left": "47.16977430165211%",
+            "top": "78.60482274465727%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-pulse_1p7c6ab"
+          height={8.352765072321958}
+          style={
+            Object {
+              "animationDelay": "1750ms",
+              "animationDuration": "17.166217979690853s",
+            }
+          }
+          width={8.352765072321958}>
+          <filter
+            height="1000%"
+            id="blur-star-2"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.19547982191628394} />
+          </filter>
+          <circle
+            cx={4.176382536160979}
+            cy={4.176382536160979}
+            fill="white"
+            filter="url(#blur-star-2)"
+            r={1.3921275120536598}
+            stroke="#281f60"
+            strokeWidth={0.32634546621639215} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "692ms",
+            "animationDuration": "1064ms",
+            "left": "60.2390625143751%",
+            "top": "12.41291370823572%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-blinkOut_1l6jjxy"
+          height={3.7182392862878477}
+          style={
+            Object {
+              "animationDelay": "2637ms",
+              "animationDuration": "18.502314491655643s",
+            }
+          }
+          width={3.7182392862878477}>
+          <filter
+            height="1000%"
+            id="blur-star-3"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.4148034817647399} />
+          </filter>
+          <circle
+            cx={1.8591196431439239}
+            cy={1.8591196431439239}
+            fill="white"
+            filter="url(#blur-star-3)"
+            r={0.6197065477146413}
+            stroke="#281f60"
+            strokeWidth={0.4377317251489} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "815ms",
+            "animationDuration": "3643ms",
+            "left": "67.55277363777785%",
+            "top": "38.823434598178046%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-dormant_bmsd38"
+          height={5.723959638328157}
+          style={
+            Object {
+              "animationDelay": "366ms",
+              "animationDuration": "6.276845707993298s",
+            }
+          }
+          width={5.723959638328157}>
+          <filter
+            height="1000%"
+            id="blur-star-4"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.12817330166638652} />
+          </filter>
+          <circle
+            cx={2.8619798191640786}
+            cy={2.8619798191640786}
+            fill="white"
+            filter="url(#blur-star-4)"
+            r={0.953993273054693}
+            stroke="#281f60"
+            strokeWidth={0.052587078224729245} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "625ms",
+            "animationDuration": "1739ms",
+            "left": "32.52824066980645%",
+            "top": "8.05519644395589%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-grower_1orjwfg"
+          height={5.687299582720873}
+          style={
+            Object {
+              "animationDelay": "865ms",
+              "animationDuration": "7.361194298812349s",
+            }
+          }
+          width={5.687299582720873}>
+          <filter
+            height="1000%"
+            id="blur-star-5"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.4507691377578372} />
+          </filter>
+          <circle
+            cx={2.8436497913604364}
+            cy={2.8436497913604364}
+            fill="white"
+            filter="url(#blur-star-5)"
+            r={0.9478832637868121}
+            stroke="#281f60"
+            strokeWidth={0.15868432819817374} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "375ms",
+            "animationDuration": "3105ms",
+            "left": "89.41205543430856%",
+            "top": "87.72030101048277%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-sideShift_10dabe7"
+          height={3.4507936019448113}
+          style={
+            Object {
+              "animationDelay": "2551ms",
+              "animationDuration": "9.269060275729084s",
+            }
+          }
+          width={3.4507936019448113}>
+          <filter
+            height="1000%"
+            id="blur-star-6"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.42523877803121823} />
+          </filter>
+          <circle
+            cx={1.7253968009724057}
+            cy={1.7253968009724057}
+            fill="white"
+            filter="url(#blur-star-6)"
+            r={0.5751322669908019}
+            stroke="#281f60"
+            strokeWidth={0.48902291024123223} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "363ms",
+            "animationDuration": "666ms",
+            "left": "15.75427341254026%",
+            "top": "84.58137110988896%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-slowFade_qlxf0z"
+          height={7.603130545397301}
+          style={
+            Object {
+              "animationDelay": "2135ms",
+              "animationDuration": "19.028052074568542s",
+            }
+          }
+          width={7.603130545397301}>
+          <filter
+            height="1000%"
+            id="blur-star-7"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.24284629695584625} />
+          </filter>
+          <circle
+            cx={3.8015652726986504}
+            cy={3.8015652726986504}
+            fill="white"
+            filter="url(#blur-star-7)"
+            r={1.2671884242328835}
+            stroke="#281f60"
+            strokeWidth={0.6491053700386045} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "297ms",
+            "animationDuration": "229ms",
+            "left": "83.73661133140969%",
+            "top": "45.460386511383234%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-grower_1orjwfg"
+          height={1.6882780562429498}
+          style={
+            Object {
+              "animationDelay": "2713ms",
+              "animationDuration": "6.110172860696029s",
+            }
+          }
+          width={1.6882780562429498}>
+          <filter
+            height="1000%"
+            id="blur-star-8"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.44400202242467535} />
+          </filter>
+          <circle
+            cx={0.8441390281214749}
+            cy={0.8441390281214749}
+            fill="white"
+            filter="url(#blur-star-8)"
+            r={0.28137967604049163}
+            stroke="#281f60"
+            strokeWidth={0.49187810786858727} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "823ms",
+            "animationDuration": "2166ms",
+            "left": "49.157265090092984%",
+            "top": "15.3693935555073%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-blinkOut_1l6jjxy"
+          height={3.830188233427352}
+          style={
+            Object {
+              "animationDelay": "52ms",
+              "animationDuration": "9.697732757849124s",
+            }
+          }
+          width={3.830188233427352}>
+          <filter
+            height="1000%"
+            id="blur-star-9"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.3333158448081013} />
+          </filter>
+          <circle
+            cx={1.915094116713676}
+            cy={1.915094116713676}
+            fill="white"
+            filter="url(#blur-star-9)"
+            r={0.6383647055712253}
+            stroke="#281f60"
+            strokeWidth={0.13716585922972752} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "253ms",
+            "animationDuration": "3923ms",
+            "left": "16.533612666157588%",
+            "top": "11.959711983396778%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-pulse_1p7c6ab"
+          height={2.9747927438299095}
+          style={
+            Object {
+              "animationDelay": "2203ms",
+              "animationDuration": "19.755063029469163s",
+            }
+          }
+          width={2.9747927438299095}>
+          <filter
+            height="1000%"
+            id="blur-star-10"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.4382828458744512} />
+          </filter>
+          <circle
+            cx={1.4873963719149548}
+            cy={1.4873963719149548}
+            fill="white"
+            filter="url(#blur-star-10)"
+            r={0.4957987906383183}
+            stroke="#281f60"
+            strokeWidth={0.16205251432546997} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "777ms",
+            "animationDuration": "1028ms",
+            "left": "15.947745481688994%",
+            "top": "30.35780401076223%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-grower_1orjwfg"
+          height={6.884372166266195}
+          style={
+            Object {
+              "animationDelay": "180ms",
+              "animationDuration": "10.466546016408579s",
+            }
+          }
+          width={6.884372166266195}>
+          <filter
+            height="1000%"
+            id="blur-star-11"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.42252303497512145} />
+          </filter>
+          <circle
+            cx={3.4421860831330977}
+            cy={3.4421860831330977}
+            fill="white"
+            filter="url(#blur-star-11)"
+            r={1.147395361044366}
+            stroke="#281f60"
+            strokeWidth={0.45508148082708366} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "472ms",
+            "animationDuration": "1300ms",
+            "left": "62.827195008567756%",
+            "top": "8.939230437663143%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-bright_1fuysop"
+          height={6.318848864139566}
+          style={
+            Object {
+              "animationDelay": "2567ms",
+              "animationDuration": "12.864367272649812s",
+            }
+          }
+          width={6.318848864139566}>
+          <filter
+            height="1000%"
+            id="blur-star-12"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.3102339211044197} />
+          </filter>
+          <circle
+            cx={3.159424432069783}
+            cy={3.159424432069783}
+            fill="white"
+            filter="url(#blur-star-12)"
+            r={1.0531414773565944}
+            stroke="#281f60"
+            strokeWidth={0.7309366159444979} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "481ms",
+            "animationDuration": "1337ms",
+            "left": "44.007044825956484%",
+            "top": "98.69138899037308%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-slowFade_qlxf0z"
+          height={5.713592097103614}
+          style={
+            Object {
+              "animationDelay": "2853ms",
+              "animationDuration": "14.25959104850046s",
+            }
+          }
+          width={5.713592097103614}>
+          <filter
+            height="1000%"
+            id="blur-star-13"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.26518105755559784} />
+          </filter>
+          <circle
+            cx={2.856796048551807}
+            cy={2.856796048551807}
+            fill="white"
+            filter="url(#blur-star-13)"
+            r={0.952265349517269}
+            stroke="#281f60"
+            strokeWidth={0.31567170790793975} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "562ms",
+            "animationDuration": "660ms",
+            "left": "65.58382308709632%",
+            "top": "93.66234902698537%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-grower_1orjwfg"
+          height={6.115989028930377}
+          style={
+            Object {
+              "animationDelay": "1580ms",
+              "animationDuration": "6.983259653614883s",
+            }
+          }
+          width={6.115989028930377}>
+          <filter
+            height="1000%"
+            id="blur-star-14"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.3082987585658519} />
+          </filter>
+          <circle
+            cx={3.0579945144651886}
+            cy={3.0579945144651886}
+            fill="white"
+            filter="url(#blur-star-14)"
+            r={1.0193315048217295}
+            stroke="#281f60"
+            strokeWidth={0.6671941124846861} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "843ms",
+            "animationDuration": "160ms",
+            "left": "18.272398164304636%",
+            "top": "73.25146985898994%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-slowFade_qlxf0z"
+          height={7.787792878089538}
+          style={
+            Object {
+              "animationDelay": "2710ms",
+              "animationDuration": "7.457267885266216s",
+            }
+          }
+          width={7.787792878089538}>
+          <filter
+            height="1000%"
+            id="blur-star-15"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.14606555966005674} />
+          </filter>
+          <circle
+            cx={3.893896439044769}
+            cy={3.893896439044769}
+            fill="white"
+            filter="url(#blur-star-15)"
+            r={1.2979654796815896}
+            stroke="#281f60"
+            strokeWidth={0.6366958762813277} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "147ms",
+            "animationDuration": "1835ms",
+            "left": "84.4252878052592%",
+            "top": "92.74202222861392%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-dormant_bmsd38"
+          height={8.280441842806411}
+          style={
+            Object {
+              "animationDelay": "855ms",
+              "animationDuration": "18.666837924451222s",
+            }
+          }
+          width={8.280441842806411}>
+          <filter
+            height="1000%"
+            id="blur-star-16"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.43355147272449235} />
+          </filter>
+          <circle
+            cx={4.1402209214032055}
+            cy={4.1402209214032055}
+            fill="white"
+            filter="url(#blur-star-16)"
+            r={1.3800736404677352}
+            stroke="#281f60"
+            strokeWidth={0.18300194220253962} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "175ms",
+            "animationDuration": "1685ms",
+            "left": "39.995357935327014%",
+            "top": "29.60619991512297%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-slowFade_qlxf0z"
+          height={5.012016940095764}
+          style={
+            Object {
+              "animationDelay": "1881ms",
+              "animationDuration": "13.119251222402037s",
+            }
+          }
+          width={5.012016940095764}>
+          <filter
+            height="1000%"
+            id="blur-star-17"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.1537618318667094} />
+          </filter>
+          <circle
+            cx={2.506008470047882}
+            cy={2.506008470047882}
+            fill="white"
+            filter="url(#blur-star-17)"
+            r={0.8353361566826274}
+            stroke="#281f60"
+            strokeWidth={0.07268663535116121} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "346ms",
+            "animationDuration": "2077ms",
+            "left": "62.7574493998286%",
+            "top": "8.646089768410476%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-dormant_bmsd38"
+          height={8.518293616776223}
+          style={
+            Object {
+              "animationDelay": "2355ms",
+              "animationDuration": "18.245221439284002s",
+            }
+          }
+          width={8.518293616776223}>
+          <filter
+            height="1000%"
+            id="blur-star-18"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.49840618079737065} />
+          </filter>
+          <circle
+            cx={4.259146808388111}
+            cy={4.259146808388111}
+            fill="white"
+            filter="url(#blur-star-18)"
+            r={1.4197156027960371}
+            stroke="#281f60"
+            strokeWidth={0.02142833205693101} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "543ms",
+            "animationDuration": "1078ms",
+            "left": "59.03040435454372%",
+            "top": "21.18138672717329%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-blinkOut_1l6jjxy"
+          height={3.795246447377607}
+          style={
+            Object {
+              "animationDelay": "1771ms",
+              "animationDuration": "5.782613432606355s",
+            }
+          }
+          width={3.795246447377607}>
+          <filter
+            height="1000%"
+            id="blur-star-19"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.17609308616300456} />
+          </filter>
+          <circle
+            cx={1.8976232236888035}
+            cy={1.8976232236888035}
+            fill="white"
+            filter="url(#blur-star-19)"
+            r={0.6325410745629345}
+            stroke="#281f60"
+            strokeWidth={0.15071288391154802} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "411ms",
+            "animationDuration": "2747ms",
+            "left": "35.700544857369394%",
+            "top": "57.03457381285872%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-sideShift_10dabe7"
+          height={2.417070421832353}
+          style={
+            Object {
+              "animationDelay": "2051ms",
+              "animationDuration": "6.247401377331637s",
+            }
+          }
+          width={2.417070421832353}>
+          <filter
+            height="1000%"
+            id="blur-star-20"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.10539505546546098} />
+          </filter>
+          <circle
+            cx={1.2085352109161764}
+            cy={1.2085352109161764}
+            fill="white"
+            filter="url(#blur-star-20)"
+            r={0.40284507030539213}
+            stroke="#281f60"
+            strokeWidth={0.5466513013542664} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "967ms",
+            "animationDuration": "2456ms",
+            "left": "13.687433148578496%",
+            "top": "35.59673669261777%",
+          }
+        }>
+        <svg
+          className="star_16oth9z"
+          height={5.5541382790397265}
+          style={
+            Object {
+              "animationDelay": "1249ms",
+              "animationDuration": "11.156566911286752s",
+            }
+          }
+          width={5.5541382790397265}>
+          <filter
+            height="1000%"
+            id="blur-star-21"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.15861162441692148} />
+          </filter>
+          <circle
+            cx={2.7770691395198632}
+            cy={2.7770691395198632}
+            fill="white"
+            filter="url(#blur-star-21)"
+            r={0.9256897131732877}
+            stroke="#281f60"
+            strokeWidth={0.34668314686714935} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "544ms",
+            "animationDuration": "3026ms",
+            "left": "51.80523310279417%",
+            "top": "30.971452919084307%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-pulse_1p7c6ab"
+          height={2.4378705039188917}
+          style={
+            Object {
+              "animationDelay": "2713ms",
+              "animationDuration": "5.581128222332021s",
+            }
+          }
+          width={2.4378705039188917}>
+          <filter
+            height="1000%"
+            id="blur-star-22"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.3950431821278714} />
+          </filter>
+          <circle
+            cx={1.2189352519594459}
+            cy={1.2189352519594459}
+            fill="white"
+            filter="url(#blur-star-22)"
+            r={0.4063117506531486}
+            stroke="#281f60"
+            strokeWidth={0.11063411553516816} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "65ms",
+            "animationDuration": "3023ms",
+            "left": "45.82338432706988%",
+            "top": "70.69281855461297%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-pulse_1p7c6ab"
+          height={5.657423278531638}
+          style={
+            Object {
+              "animationDelay": "1538ms",
+              "animationDuration": "16.95028535080607s",
+            }
+          }
+          width={5.657423278531638}>
+          <filter
+            height="1000%"
+            id="blur-star-23"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.18063507935318476} />
+          </filter>
+          <circle
+            cx={2.828711639265819}
+            cy={2.828711639265819}
+            fill="white"
+            filter="url(#blur-star-23)"
+            r={0.9429038797552731}
+            stroke="#281f60"
+            strokeWidth={0.5721713137382238} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "277ms",
+            "animationDuration": "1290ms",
+            "left": "59.659970393915756%",
+            "top": "34.54437957108704%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-sideShift_10dabe7"
+          height={3.6161946767937376}
+          style={
+            Object {
+              "animationDelay": "1232ms",
+              "animationDuration": "17.570564399873078s",
+            }
+          }
+          width={3.6161946767937376}>
+          <filter
+            height="1000%"
+            id="blur-star-24"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.26946527826442984} />
+          </filter>
+          <circle
+            cx={1.8080973383968688}
+            cy={1.8080973383968688}
+            fill="white"
+            filter="url(#blur-star-24)"
+            r={0.6026991127989563}
+            stroke="#281f60"
+            strokeWidth={0.5761991866874894} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "372ms",
+            "animationDuration": "3810ms",
+            "left": "46.78931276774445%",
+            "top": "8.596562541276068%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-sideShift_10dabe7"
+          height={5.505933739179241}
+          style={
+            Object {
+              "animationDelay": "452ms",
+              "animationDuration": "8.73746436093456s",
+            }
+          }
+          width={5.505933739179241}>
+          <filter
+            height="1000%"
+            id="blur-star-25"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.35645278840387007} />
+          </filter>
+          <circle
+            cx={2.7529668695896206}
+            cy={2.7529668695896206}
+            fill="white"
+            filter="url(#blur-star-25)"
+            r={0.9176556231965403}
+            stroke="#281f60"
+            strokeWidth={0.36325339060660894} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "42ms",
+            "animationDuration": "2101ms",
+            "left": "8.446629948120407%",
+            "top": "33.73207687501031%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-dormant_bmsd38"
+          height={6.574823873324449}
+          style={
+            Object {
+              "animationDelay": "1073ms",
+              "animationDuration": "14.91556147570938s",
+            }
+          }
+          width={6.574823873324449}>
+          <filter
+            height="1000%"
+            id="blur-star-26"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.2394860712854704} />
+          </filter>
+          <circle
+            cx={3.2874119366622243}
+            cy={3.2874119366622243}
+            fill="white"
+            filter="url(#blur-star-26)"
+            r={1.095803978887408}
+            stroke="#281f60"
+            strokeWidth={0.1905338231531003} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "826ms",
+            "animationDuration": "3983ms",
+            "left": "37.161454286696014%",
+            "top": "78.54546456158603%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-blinkOut_1l6jjxy"
+          height={3.7174596472613683}
+          style={
+            Object {
+              "animationDelay": "2008ms",
+              "animationDuration": "18.387440368714344s",
+            }
+          }
+          width={3.7174596472613683}>
+          <filter
+            height="1000%"
+            id="blur-star-27"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.3491248282018649} />
+          </filter>
+          <circle
+            cx={1.8587298236306842}
+            cy={1.8587298236306842}
+            fill="white"
+            filter="url(#blur-star-27)"
+            r={0.6195766078768947}
+            stroke="#281f60"
+            strokeWidth={0.6120226308200278} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "786ms",
+            "animationDuration": "510ms",
+            "left": "66.37867640765666%",
+            "top": "27.540857284739708%",
+          }
+        }>
+        <svg
+          className="star_16oth9z"
+          height={7.678439714629921}
+          style={
+            Object {
+              "animationDelay": "170ms",
+              "animationDuration": "16.769016290004686s",
+            }
+          }
+          width={7.678439714629921}>
+          <filter
+            height="1000%"
+            id="blur-star-28"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.48861553069025376} />
+          </filter>
+          <circle
+            cx={3.8392198573149603}
+            cy={3.8392198573149603}
+            fill="white"
+            filter="url(#blur-star-28)"
+            r={1.2797399524383202}
+            stroke="#281f60"
+            strokeWidth={0.31472056182028957} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "561ms",
+            "animationDuration": "1235ms",
+            "left": "13.0244333051332%",
+            "top": "44.13140373605979%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-pulse_1p7c6ab"
+          height={3.0613049148368554}
+          style={
+            Object {
+              "animationDelay": "1911ms",
+              "animationDuration": "6.502539356544634s",
+            }
+          }
+          width={3.0613049148368554}>
+          <filter
+            height="1000%"
+            id="blur-star-29"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.4366532523805633} />
+          </filter>
+          <circle
+            cx={1.5306524574184277}
+            cy={1.5306524574184277}
+            fill="white"
+            filter="url(#blur-star-29)"
+            r={0.5102174858061426}
+            stroke="#281f60"
+            strokeWidth={0.5591054139108617} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "102ms",
+            "animationDuration": "2178ms",
+            "left": "18.476985424314528%",
+            "top": "5.1198334041425575%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-grower_1orjwfg"
+          height={1.5479729875804502}
+          style={
+            Object {
+              "animationDelay": "2458ms",
+              "animationDuration": "19.5190699512061s",
+            }
+          }
+          width={1.5479729875804502}>
+          <filter
+            height="1000%"
+            id="blur-star-30"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.36920568018544053} />
+          </filter>
+          <circle
+            cx={0.7739864937902251}
+            cy={0.7739864937902251}
+            fill="white"
+            filter="url(#blur-star-30)"
+            r={0.25799549793007504}
+            stroke="#281f60"
+            strokeWidth={0.1507684763547697} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "709ms",
+            "animationDuration": "3958ms",
+            "left": "21.343538835145033%",
+            "top": "64.29104956787056%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-blinkOut_1l6jjxy"
+          height={6.914825038892794}
+          style={
+            Object {
+              "animationDelay": "16ms",
+              "animationDuration": "9.461090048941346s",
+            }
+          }
+          width={6.914825038892794}>
+          <filter
+            height="1000%"
+            id="blur-star-31"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.24417080625200907} />
+          </filter>
+          <circle
+            cx={3.457412519446397}
+            cy={3.457412519446397}
+            fill="white"
+            filter="url(#blur-star-31)"
+            r={1.1524708398154657}
+            stroke="#281f60"
+            strokeWidth={0.19412883898221572} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "233ms",
+            "animationDuration": "2169ms",
+            "left": "91.35915184882727%",
+            "top": "75.64743906809076%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-pulse_1p7c6ab"
+          height={6.639563673696034}
+          style={
+            Object {
+              "animationDelay": "2821ms",
+              "animationDuration": "16.367756917107858s",
+            }
+          }
+          width={6.639563673696034}>
+          <filter
+            height="1000%"
+            id="blur-star-32"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.4056413416991025} />
+          </filter>
+          <circle
+            cx={3.319781836848017}
+            cy={3.319781836848017}
+            fill="white"
+            filter="url(#blur-star-32)"
+            r={1.1065939456160057}
+            stroke="#281f60"
+            strokeWidth={0.010313925282564917} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "536ms",
+            "animationDuration": "3206ms",
+            "left": "85.36507809984582%",
+            "top": "83.57211867630237%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-blinkOut_1l6jjxy"
+          height={3.733478284554349}
+          style={
+            Object {
+              "animationDelay": "1902ms",
+              "animationDuration": "11.700623602437123s",
+            }
+          }
+          width={3.733478284554349}>
+          <filter
+            height="1000%"
+            id="blur-star-33"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.36365046222141606} />
+          </filter>
+          <circle
+            cx={1.8667391422771744}
+            cy={1.8667391422771744}
+            fill="white"
+            filter="url(#blur-star-33)"
+            r={0.6222463807590581}
+            stroke="#281f60"
+            strokeWidth={0.14525199507758912} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "719ms",
+            "animationDuration": "1834ms",
+            "left": "88.06436187287466%",
+            "top": "57.57573834185274%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-grower_1orjwfg"
+          height={6.817863840455556}
+          style={
+            Object {
+              "animationDelay": "619ms",
+              "animationDuration": "19.360520956469177s",
+            }
+          }
+          width={6.817863840455556}>
+          <filter
+            height="1000%"
+            id="blur-star-34"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.45154902526162066} />
+          </filter>
+          <circle
+            cx={3.408931920227778}
+            cy={3.408931920227778}
+            fill="white"
+            filter="url(#blur-star-34)"
+            r={1.136310640075926}
+            stroke="#281f60"
+            strokeWidth={0.41359589437084043} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "308ms",
+            "animationDuration": "1795ms",
+            "left": "69.87135226882376%",
+            "top": "45.190770236883985%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-sideShift_10dabe7"
+          height={3.414776755885076}
+          style={
+            Object {
+              "animationDelay": "1951ms",
+              "animationDuration": "6.867116145364813s",
+            }
+          }
+          width={3.414776755885076}>
+          <filter
+            height="1000%"
+            id="blur-star-35"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.3367911211769215} />
+          </filter>
+          <circle
+            cx={1.707388377942538}
+            cy={1.707388377942538}
+            fill="white"
+            filter="url(#blur-star-35)"
+            r={0.5691294593141794}
+            stroke="#281f60"
+            strokeWidth={0.27036012427337486} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "658ms",
+            "animationDuration": "1844ms",
+            "left": "42.78946274140028%",
+            "top": "60.723326294335756%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-dormant_bmsd38"
+          height={2.702335044498764}
+          style={
+            Object {
+              "animationDelay": "2025ms",
+              "animationDuration": "12.163161148802349s",
+            }
+          }
+          width={2.702335044498764}>
+          <filter
+            height="1000%"
+            id="blur-star-36"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.13032680493936058} />
+          </filter>
+          <circle
+            cx={1.351167522249382}
+            cy={1.351167522249382}
+            fill="white"
+            filter="url(#blur-star-36)"
+            r={0.45038917408312734}
+            stroke="#281f60"
+            strokeWidth={0.6265931409907877} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "764ms",
+            "animationDuration": "1604ms",
+            "left": "76.83902828534963%",
+            "top": "52.668017866415916%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-slowFade_qlxf0z"
+          height={6.825088863524806}
+          style={
+            Object {
+              "animationDelay": "1951ms",
+              "animationDuration": "9.489488891782973s",
+            }
+          }
+          width={6.825088863524806}>
+          <filter
+            height="1000%"
+            id="blur-star-37"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.37641471921232006} />
+          </filter>
+          <circle
+            cx={3.412544431762403}
+            cy={3.412544431762403}
+            fill="white"
+            filter="url(#blur-star-37)"
+            r={1.1375148105874677}
+            stroke="#281f60"
+            strokeWidth={0.5625706845169839} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "87ms",
+            "animationDuration": "3035ms",
+            "left": "72.75447990713555%",
+            "top": "17.83224458925644%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-blinkOut_1l6jjxy"
+          height={5.306363872515149}
+          style={
+            Object {
+              "animationDelay": "2245ms",
+              "animationDuration": "12.35480521461779s",
+            }
+          }
+          width={5.306363872515149}>
+          <filter
+            height="1000%"
+            id="blur-star-38"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.14434508850376115} />
+          </filter>
+          <circle
+            cx={2.6531819362575746}
+            cy={2.6531819362575746}
+            fill="white"
+            filter="url(#blur-star-38)"
+            r={0.8843939787525249}
+            stroke="#281f60"
+            strokeWidth={0.6674247018274779} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "770ms",
+            "animationDuration": "576ms",
+            "left": "39.25277737390897%",
+            "top": "4.993115432902538%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-blinkOut_1l6jjxy"
+          height={6.956571527355286}
+          style={
+            Object {
+              "animationDelay": "2729ms",
+              "animationDuration": "5.794238015889796s",
+            }
+          }
+          width={6.956571527355286}>
+          <filter
+            height="1000%"
+            id="blur-star-39"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.32184636493032925} />
+          </filter>
+          <circle
+            cx={3.478285763677643}
+            cy={3.478285763677643}
+            fill="white"
+            filter="url(#blur-star-39)"
+            r={1.1594285878925477}
+            stroke="#281f60"
+            strokeWidth={0.043903131478878865} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "869ms",
+            "animationDuration": "298ms",
+            "left": "85.4028751263465%",
+            "top": "12.266522515814053%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-bright_1fuysop"
+          height={4.077633218274721}
+          style={
+            Object {
+              "animationDelay": "967ms",
+              "animationDuration": "11.356931516400877s",
+            }
+          }
+          width={4.077633218274721}>
+          <filter
+            height="1000%"
+            id="blur-star-40"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.3561333144154566} />
+          </filter>
+          <circle
+            cx={2.0388166091373603}
+            cy={2.0388166091373603}
+            fill="white"
+            filter="url(#blur-star-40)"
+            r={0.6796055363791201}
+            stroke="#281f60"
+            strokeWidth={0.1434071760161788} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "91ms",
+            "animationDuration": "1437ms",
+            "left": "16.29633098348986%",
+            "top": "6.587194818212819%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-sideShift_10dabe7"
+          height={2.29081286164591}
+          style={
+            Object {
+              "animationDelay": "1120ms",
+              "animationDuration": "5.379752489028556s",
+            }
+          }
+          width={2.29081286164591}>
+          <filter
+            height="1000%"
+            id="blur-star-41"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.47688710902623743} />
+          </filter>
+          <circle
+            cx={1.145406430822955}
+            cy={1.145406430822955}
+            fill="white"
+            filter="url(#blur-star-41)"
+            r={0.38180214360765163}
+            stroke="#281f60"
+            strokeWidth={0.7448139386688368} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "458ms",
+            "animationDuration": "2557ms",
+            "left": "48.46974105049808%",
+            "top": "19.21667603532811%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-pulse_1p7c6ab"
+          height={3.7377825533554283}
+          style={
+            Object {
+              "animationDelay": "1544ms",
+              "animationDuration": "5.994028315054595s",
+            }
+          }
+          width={3.7377825533554283}>
+          <filter
+            height="1000%"
+            id="blur-star-42"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.1563810634085349} />
+          </filter>
+          <circle
+            cx={1.8688912766777142}
+            cy={1.8688912766777142}
+            fill="white"
+            filter="url(#blur-star-42)"
+            r={0.6229637588925714}
+            stroke="#281f60"
+            strokeWidth={0.6461538833855944} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "321ms",
+            "animationDuration": "3919ms",
+            "left": "72.49166594771033%",
+            "top": "63.24185283634728%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-blinkOut_1l6jjxy"
+          height={2.5034526277309403}
+          style={
+            Object {
+              "animationDelay": "108ms",
+              "animationDuration": "10.5206055783966s",
+            }
+          }
+          width={2.5034526277309403}>
+          <filter
+            height="1000%"
+            id="blur-star-43"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.4606243390007091} />
+          </filter>
+          <circle
+            cx={1.2517263138654702}
+            cy={1.2517263138654702}
+            fill="white"
+            filter="url(#blur-star-43)"
+            r={0.4172421046218234}
+            stroke="#281f60"
+            strokeWidth={0.5147015211414309} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "322ms",
+            "animationDuration": "216ms",
+            "left": "20.16423041412736%",
+            "top": "55.751943247616865%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-slowFade_qlxf0z"
+          height={4.574962277883086}
+          style={
+            Object {
+              "animationDelay": "1171ms",
+              "animationDuration": "19.79715807889079s",
+            }
+          }
+          width={4.574962277883086}>
+          <filter
+            height="1000%"
+            id="blur-star-44"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.2798043942015876} />
+          </filter>
+          <circle
+            cx={2.287481138941543}
+            cy={2.287481138941543}
+            fill="white"
+            filter="url(#blur-star-44)"
+            r={0.7624937129805143}
+            stroke="#281f60"
+            strokeWidth={0.3008282645805707} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "830ms",
+            "animationDuration": "2793ms",
+            "left": "60.97239257181561%",
+            "top": "24.64941450223034%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-grower_1orjwfg"
+          height={5.938155625201329}
+          style={
+            Object {
+              "animationDelay": "1918ms",
+              "animationDuration": "13.56390013716094s",
+            }
+          }
+          width={5.938155625201329}>
+          <filter
+            height="1000%"
+            id="blur-star-45"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.2921220146621122} />
+          </filter>
+          <circle
+            cx={2.9690778126006645}
+            cy={2.9690778126006645}
+            fill="white"
+            filter="url(#blur-star-45)"
+            r={0.9896926042002214}
+            stroke="#281f60"
+            strokeWidth={0.30130607009658156} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "595ms",
+            "animationDuration": "2353ms",
+            "left": "40.933786033991936%",
+            "top": "53.18691443627564%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-slowFade_qlxf0z"
+          height={5.693252519407981}
+          style={
+            Object {
+              "animationDelay": "296ms",
+              "animationDuration": "19.55460288311228s",
+            }
+          }
+          width={5.693252519407981}>
+          <filter
+            height="1000%"
+            id="blur-star-46"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.37539944133483905} />
+          </filter>
+          <circle
+            cx={2.8466262597039904}
+            cy={2.8466262597039904}
+            fill="white"
+            filter="url(#blur-star-46)"
+            r={0.9488754199013301}
+            stroke="#281f60"
+            strokeWidth={0.4177681679614846} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "632ms",
+            "animationDuration": "1135ms",
+            "left": "9.667437582485821%",
+            "top": "52.649184192291564%",
+          }
+        }>
+        <svg
+          className="star_16oth9z"
+          height={2.205324725323508}
+          style={
+            Object {
+              "animationDelay": "2697ms",
+              "animationDuration": "5.899989414965302s",
+            }
+          }
+          width={2.205324725323508}>
+          <filter
+            height="1000%"
+            id="blur-star-47"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.3931710922802333} />
+          </filter>
+          <circle
+            cx={1.102662362661754}
+            cy={1.102662362661754}
+            fill="white"
+            filter="url(#blur-star-47)"
+            r={0.3675541208872513}
+            stroke="#281f60"
+            strokeWidth={0.3045536740976404} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "370ms",
+            "animationDuration": "26ms",
+            "left": "26.83746203091144%",
+            "top": "22.901745101217603%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-pulse_1p7c6ab"
+          height={4.109324579912453}
+          style={
+            Object {
+              "animationDelay": "2058ms",
+              "animationDuration": "17.106802765152544s",
+            }
+          }
+          width={4.109324579912453}>
+          <filter
+            height="1000%"
+            id="blur-star-48"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.4656934456913623} />
+          </filter>
+          <circle
+            cx={2.0546622899562266}
+            cy={2.0546622899562266}
+            fill="white"
+            filter="url(#blur-star-48)"
+            r={0.6848874299854089}
+            stroke="#281f60"
+            strokeWidth={0.5203631342681311} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "871ms",
+            "animationDuration": "2903ms",
+            "left": "1.5962238197450873%",
+            "top": "29.92392634391401%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-grower_1orjwfg"
+          height={7.879948233590403}
+          style={
+            Object {
+              "animationDelay": "2219ms",
+              "animationDuration": "12.500702493515742s",
+            }
+          }
+          width={7.879948233590403}>
+          <filter
+            height="1000%"
+            id="blur-star-49"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.3686198134302183} />
+          </filter>
+          <circle
+            cx={3.9399741167952014}
+            cy={3.9399741167952014}
+            fill="white"
+            filter="url(#blur-star-49)"
+            r={1.3133247055984005}
+            stroke="#281f60"
+            strokeWidth={0.536550516787075} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "403ms",
+            "animationDuration": "1505ms",
+            "left": "64.45843014164393%",
+            "top": "85.82605750087481%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-grower_1orjwfg"
+          height={5.278226273435045}
+          style={
+            Object {
+              "animationDelay": "2770ms",
+              "animationDuration": "16.16520820494086s",
+            }
+          }
+          width={5.278226273435045}>
+          <filter
+            height="1000%"
+            id="blur-star-50"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.24094848132515134} />
+          </filter>
+          <circle
+            cx={2.6391131367175227}
+            cy={2.6391131367175227}
+            fill="white"
+            filter="url(#blur-star-50)"
+            r={0.879704378905841}
+            stroke="#281f60"
+            strokeWidth={0.6265510909664458} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "531ms",
+            "animationDuration": "482ms",
+            "left": "78.49199212518512%",
+            "top": "28.20999779477856%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-slowFade_qlxf0z"
+          height={7.321984357262402}
+          style={
+            Object {
+              "animationDelay": "725ms",
+              "animationDuration": "13.5243931071077s",
+            }
+          }
+          width={7.321984357262402}>
+          <filter
+            height="1000%"
+            id="blur-star-51"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.30116243367151385} />
+          </filter>
+          <circle
+            cx={3.660992178631201}
+            cy={3.660992178631201}
+            fill="white"
+            filter="url(#blur-star-51)"
+            r={1.2203307262104004}
+            stroke="#281f60"
+            strokeWidth={0.12738322920146256} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "837ms",
+            "animationDuration": "3777ms",
+            "left": "91.7279330070279%",
+            "top": "32.5428451117082%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-bright_1fuysop"
+          height={3.605281836012468}
+          style={
+            Object {
+              "animationDelay": "6ms",
+              "animationDuration": "11.50835662184059s",
+            }
+          }
+          width={3.605281836012468}>
+          <filter
+            height="1000%"
+            id="blur-star-52"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.30772769788813126} />
+          </filter>
+          <circle
+            cx={1.802640918006234}
+            cy={1.802640918006234}
+            fill="white"
+            filter="url(#blur-star-52)"
+            r={0.600880306002078}
+            stroke="#281f60"
+            strokeWidth={0.027352037133409113} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "165ms",
+            "animationDuration": "581ms",
+            "left": "5.648196420680603%",
+            "top": "97.89554736166443%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-bright_1fuysop"
+          height={6.192026077463838}
+          style={
+            Object {
+              "animationDelay": "1378ms",
+              "animationDuration": "9.713154919398303s",
+            }
+          }
+          width={6.192026077463838}>
+          <filter
+            height="1000%"
+            id="blur-star-53"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.3049942274201617} />
+          </filter>
+          <circle
+            cx={3.096013038731919}
+            cy={3.096013038731919}
+            fill="white"
+            filter="url(#blur-star-53)"
+            r={1.032004346243973}
+            stroke="#281f60"
+            strokeWidth={0.6844057209217911} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "182ms",
+            "animationDuration": "3604ms",
+            "left": "89.90635317837314%",
+            "top": "36.61651671445912%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-grower_1orjwfg"
+          height={8.137946354016627}
+          style={
+            Object {
+              "animationDelay": "2540ms",
+              "animationDuration": "15.848138045834379s",
+            }
+          }
+          width={8.137946354016627}>
+          <filter
+            height="1000%"
+            id="blur-star-54"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.3923661488801453} />
+          </filter>
+          <circle
+            cx={4.0689731770083135}
+            cy={4.0689731770083135}
+            fill="white"
+            filter="url(#blur-star-54)"
+            r={1.3563243923361044}
+            stroke="#281f60"
+            strokeWidth={0.7480178262538797} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "291ms",
+            "animationDuration": "2661ms",
+            "left": "29.903686513410815%",
+            "top": "10.760924738615785%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-blinkOut_1l6jjxy"
+          height={7.8282206334648405}
+          style={
+            Object {
+              "animationDelay": "308ms",
+              "animationDuration": "8.747127758570446s",
+            }
+          }
+          width={7.8282206334648405}>
+          <filter
+            height="1000%"
+            id="blur-star-55"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.37255715321599714} />
+          </filter>
+          <circle
+            cx={3.9141103167324203}
+            cy={3.9141103167324203}
+            fill="white"
+            filter="url(#blur-star-55)"
+            r={1.3047034389108068}
+            stroke="#281f60"
+            strokeWidth={0.44286351688519365} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "68ms",
+            "animationDuration": "2667ms",
+            "left": "25.70010352648251%",
+            "top": "29.06222199190676%",
+          }
+        }>
+        <svg
+          className="star_16oth9z"
+          height={2.9265751140552134}
+          style={
+            Object {
+              "animationDelay": "1500ms",
+              "animationDuration": "17.83184525742248s",
+            }
+          }
+          width={2.9265751140552134}>
+          <filter
+            height="1000%"
+            id="blur-star-56"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.11674732688378331} />
+          </filter>
+          <circle
+            cx={1.4632875570276067}
+            cy={1.4632875570276067}
+            fill="white"
+            filter="url(#blur-star-56)"
+            r={0.48776251900920226}
+            stroke="#281f60"
+            strokeWidth={0.35373303782156584} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "13ms",
+            "animationDuration": "754ms",
+            "left": "48.9640987254556%",
+            "top": "77.01459113351285%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-blinkOut_1l6jjxy"
+          height={2.8079157718180485}
+          style={
+            Object {
+              "animationDelay": "2109ms",
+              "animationDuration": "5.6865341027010405s",
+            }
+          }
+          width={2.8079157718180485}>
+          <filter
+            height="1000%"
+            id="blur-star-57"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.44762509074339485} />
+          </filter>
+          <circle
+            cx={1.4039578859090243}
+            cy={1.4039578859090243}
+            fill="white"
+            filter="url(#blur-star-57)"
+            r={0.46798596196967474}
+            stroke="#281f60"
+            strokeWidth={0.6215233386113912} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "187ms",
+            "animationDuration": "3479ms",
+            "left": "49.880461354378824%",
+            "top": "28.045865150142937%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-pulse_1p7c6ab"
+          height={8.631099965944763}
+          style={
+            Object {
+              "animationDelay": "1403ms",
+              "animationDuration": "16.53930761502692s",
+            }
+          }
+          width={8.631099965944763}>
+          <filter
+            height="1000%"
+            id="blur-star-58"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.39444050060299685} />
+          </filter>
+          <circle
+            cx={4.315549982972382}
+            cy={4.315549982972382}
+            fill="white"
+            filter="url(#blur-star-58)"
+            r={1.4385166609907938}
+            stroke="#281f60"
+            strokeWidth={0.7368271989926529} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "885ms",
+            "animationDuration": "2282ms",
+            "left": "94.30969531443293%",
+            "top": "75.14038350383612%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-slowFade_qlxf0z"
+          height={5.7566726430074695}
+          style={
+            Object {
+              "animationDelay": "444ms",
+              "animationDuration": "7.966288978446812s",
+            }
+          }
+          width={5.7566726430074695}>
+          <filter
+            height="1000%"
+            id="blur-star-59"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.3006861196413211} />
+          </filter>
+          <circle
+            cx={2.8783363215037348}
+            cy={2.8783363215037348}
+            fill="white"
+            filter="url(#blur-star-59)"
+            r={0.9594454405012449}
+            stroke="#281f60"
+            strokeWidth={0.035581122045583724} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "578ms",
+            "animationDuration": "3712ms",
+            "left": "22.456949743502975%",
+            "top": "79.17857723730548%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-grower_1orjwfg"
+          height={3.029607796622839}
+          style={
+            Object {
+              "animationDelay": "448ms",
+              "animationDuration": "7.480888819177109s",
+            }
+          }
+          width={3.029607796622839}>
+          <filter
+            height="1000%"
+            id="blur-star-60"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.33904807993594527} />
+          </filter>
+          <circle
+            cx={1.5148038983114196}
+            cy={1.5148038983114196}
+            fill="white"
+            filter="url(#blur-star-60)"
+            r={0.5049346327704732}
+            stroke="#281f60"
+            strokeWidth={0.23449409516999853} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "221ms",
+            "animationDuration": "1541ms",
+            "left": "35.326840352539094%",
+            "top": "2.4042314211203504%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-dormant_bmsd38"
+          height={4.334051791985194}
+          style={
+            Object {
+              "animationDelay": "480ms",
+              "animationDuration": "14.570466527535245s",
+            }
+          }
+          width={4.334051791985194}>
+          <filter
+            height="1000%"
+            id="blur-star-61"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.41435423236089} />
+          </filter>
+          <circle
+            cx={2.167025895992597}
+            cy={2.167025895992597}
+            fill="white"
+            filter="url(#blur-star-61)"
+            r={0.7223419653308658}
+            stroke="#281f60"
+            strokeWidth={0.24822728557822382} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "342ms",
+            "animationDuration": "490ms",
+            "left": "31.66869812115794%",
+            "top": "98.36116265524953%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-blinkOut_1l6jjxy"
+          height={5.147182165623128}
+          style={
+            Object {
+              "animationDelay": "76ms",
+              "animationDuration": "5.485316548757083s",
+            }
+          }
+          width={5.147182165623128}>
+          <filter
+            height="1000%"
+            id="blur-star-62"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.49587632960370576} />
+          </filter>
+          <circle
+            cx={2.573591082811564}
+            cy={2.573591082811564}
+            fill="white"
+            filter="url(#blur-star-62)"
+            r={0.8578636942705212}
+            stroke="#281f60"
+            strokeWidth={0.6466856722267011} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "840ms",
+            "animationDuration": "3856ms",
+            "left": "82.04079418602123%",
+            "top": "40.58829092397006%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-pulse_1p7c6ab"
+          height={1.9401545441405847}
+          style={
+            Object {
+              "animationDelay": "2912ms",
+              "animationDuration": "11.382989079299094s",
+            }
+          }
+          width={1.9401545441405847}>
+          <filter
+            height="1000%"
+            id="blur-star-63"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.3134139954869125} />
+          </filter>
+          <circle
+            cx={0.9700772720702924}
+            cy={0.9700772720702924}
+            fill="white"
+            filter="url(#blur-star-63)"
+            r={0.32335909069009744}
+            stroke="#281f60"
+            strokeWidth={0.07619008785857845} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "126ms",
+            "animationDuration": "3171ms",
+            "left": "71.47881282232144%",
+            "top": "84.10555243432707%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-pulse_1p7c6ab"
+          height={3.1422092310711744}
+          style={
+            Object {
+              "animationDelay": "2860ms",
+              "animationDuration": "5.274768212702281s",
+            }
+          }
+          width={3.1422092310711744}>
+          <filter
+            height="1000%"
+            id="blur-star-64"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.3228626140699822} />
+          </filter>
+          <circle
+            cx={1.5711046155355872}
+            cy={1.5711046155355872}
+            fill="white"
+            filter="url(#blur-star-64)"
+            r={0.5237015385118624}
+            stroke="#281f60"
+            strokeWidth={0.1281583059798168} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "528ms",
+            "animationDuration": "1835ms",
+            "left": "98.81468616130067%",
+            "top": "7.767367637642293%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-dormant_bmsd38"
+          height={7.8462055581198955}
+          style={
+            Object {
+              "animationDelay": "2867ms",
+              "animationDuration": "15.732422676581502s",
+            }
+          }
+          width={7.8462055581198955}>
+          <filter
+            height="1000%"
+            id="blur-star-65"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.42512991590489213} />
+          </filter>
+          <circle
+            cx={3.9231027790599478}
+            cy={3.9231027790599478}
+            fill="white"
+            filter="url(#blur-star-65)"
+            r={1.307700926353316}
+            stroke="#281f60"
+            strokeWidth={0.5765077297438856} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "247ms",
+            "animationDuration": "1774ms",
+            "left": "40.67715352412363%",
+            "top": "47.33491001001953%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-blinkOut_1l6jjxy"
+          height={4.5650886140052025}
+          style={
+            Object {
+              "animationDelay": "1285ms",
+              "animationDuration": "8.292089948362632s",
+            }
+          }
+          width={4.5650886140052025}>
+          <filter
+            height="1000%"
+            id="blur-star-66"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.41926493581389745} />
+          </filter>
+          <circle
+            cx={2.2825443070026012}
+            cy={2.2825443070026012}
+            fill="white"
+            filter="url(#blur-star-66)"
+            r={0.7608481023342004}
+            stroke="#281f60"
+            strokeWidth={0.20898606399832148} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "31ms",
+            "animationDuration": "2332ms",
+            "left": "10.779575968521444%",
+            "top": "7.542451635886906%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-dormant_bmsd38"
+          height={1.925892739166015}
+          style={
+            Object {
+              "animationDelay": "2074ms",
+              "animationDuration": "17.96267047143113s",
+            }
+          }
+          width={1.925892739166015}>
+          <filter
+            height="1000%"
+            id="blur-star-67"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.40713339473978927} />
+          </filter>
+          <circle
+            cx={0.9629463695830075}
+            cy={0.9629463695830075}
+            fill="white"
+            filter="url(#blur-star-67)"
+            r={0.32098212319433583}
+            stroke="#281f60"
+            strokeWidth={0.2655401193014897} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "113ms",
+            "animationDuration": "934ms",
+            "left": "32.66307519915702%",
+            "top": "6.9234770229238976%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-blinkOut_1l6jjxy"
+          height={4.181014878017774}
+          style={
+            Object {
+              "animationDelay": "2152ms",
+              "animationDuration": "12.536000193523606s",
+            }
+          }
+          width={4.181014878017774}>
+          <filter
+            height="1000%"
+            id="blur-star-68"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.478371069334229} />
+          </filter>
+          <circle
+            cx={2.090507439008887}
+            cy={2.090507439008887}
+            fill="white"
+            filter="url(#blur-star-68)"
+            r={0.6968358130029624}
+            stroke="#281f60"
+            strokeWidth={0.6322420903878199} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "294ms",
+            "animationDuration": "2148ms",
+            "left": "48.790536071710434%",
+            "top": "79.7825415548671%",
+          }
+        }>
+        <svg
+          className="star_16oth9z"
+          height={5.774846852471899}
+          style={
+            Object {
+              "animationDelay": "77ms",
+              "animationDuration": "10.117501190824944s",
+            }
+          }
+          width={5.774846852471899}>
+          <filter
+            height="1000%"
+            id="blur-star-69"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.4716118145975299} />
+          </filter>
+          <circle
+            cx={2.8874234262359497}
+            cy={2.8874234262359497}
+            fill="white"
+            filter="url(#blur-star-69)"
+            r={0.9624744754119833}
+            stroke="#281f60"
+            strokeWidth={0.479456162901422} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "760ms",
+            "animationDuration": "2919ms",
+            "left": "43.286467021135124%",
+            "top": "66.1791040392026%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-blinkOut_1l6jjxy"
+          height={8.29113478805937}
+          style={
+            Object {
+              "animationDelay": "2854ms",
+              "animationDuration": "7.398862617201441s",
+            }
+          }
+          width={8.29113478805937}>
+          <filter
+            height="1000%"
+            id="blur-star-70"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.41684565349343683} />
+          </filter>
+          <circle
+            cx={4.145567394029685}
+            cy={4.145567394029685}
+            fill="white"
+            filter="url(#blur-star-70)"
+            r={1.381855798009895}
+            stroke="#281f60"
+            strokeWidth={0.25320319811184644} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "762ms",
+            "animationDuration": "621ms",
+            "left": "5.295573244508967%",
+            "top": "88.1936482079768%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-bright_1fuysop"
+          height={1.6806879829667296}
+          style={
+            Object {
+              "animationDelay": "597ms",
+              "animationDuration": "7.401875096150585s",
+            }
+          }
+          width={1.6806879829667296}>
+          <filter
+            height="1000%"
+            id="blur-star-71"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.37176403381216383} />
+          </filter>
+          <circle
+            cx={0.8403439914833648}
+            cy={0.8403439914833648}
+            fill="white"
+            filter="url(#blur-star-71)"
+            r={0.28011466382778827}
+            stroke="#281f60"
+            strokeWidth={0.6079411494458464} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "515ms",
+            "animationDuration": "1912ms",
+            "left": "23.444293858471326%",
+            "top": "32.554548495038354%",
+          }
+        }>
+        <svg
+          className="star_16oth9z"
+          height={3.589384684917449}
+          style={
+            Object {
+              "animationDelay": "1540ms",
+              "animationDuration": "7.093689814339212s",
+            }
+          }
+          width={3.589384684917449}>
+          <filter
+            height="1000%"
+            id="blur-star-72"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.22030631472311102} />
+          </filter>
+          <circle
+            cx={1.7946923424587244}
+            cy={1.7946923424587244}
+            fill="white"
+            filter="url(#blur-star-72)"
+            r={0.5982307808195748}
+            stroke="#281f60"
+            strokeWidth={0.4869493100019358} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "149ms",
+            "animationDuration": "3833ms",
+            "left": "22.61349103966316%",
+            "top": "90.79218019371979%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-slowFade_qlxf0z"
+          height={2.5344550902907015}
+          style={
+            Object {
+              "animationDelay": "2584ms",
+              "animationDuration": "8.679939958418254s",
+            }
+          }
+          width={2.5344550902907015}>
+          <filter
+            height="1000%"
+            id="blur-star-73"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.21996120476308853} />
+          </filter>
+          <circle
+            cx={1.2672275451453507}
+            cy={1.2672275451453507}
+            fill="white"
+            filter="url(#blur-star-73)"
+            r={0.4224091817151169}
+            stroke="#281f60"
+            strokeWidth={0.13921752448511587} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "108ms",
+            "animationDuration": "2307ms",
+            "left": "49.10727632908783%",
+            "top": "70.2870390832395%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-pulse_1p7c6ab"
+          height={2.8760661681677036}
+          style={
+            Object {
+              "animationDelay": "293ms",
+              "animationDuration": "11.665358479818778s",
+            }
+          }
+          width={2.8760661681677036}>
+          <filter
+            height="1000%"
+            id="blur-star-74"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.25861307934467925} />
+          </filter>
+          <circle
+            cx={1.4380330840838518}
+            cy={1.4380330840838518}
+            fill="white"
+            filter="url(#blur-star-74)"
+            r={0.4793443613612839}
+            stroke="#281f60"
+            strokeWidth={0.07315158696857382} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "272ms",
+            "animationDuration": "2950ms",
+            "left": "84.39697683046472%",
+            "top": "37.21635703724833%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-pulse_1p7c6ab"
+          height={7.408408828999072}
+          style={
+            Object {
+              "animationDelay": "794ms",
+              "animationDuration": "12.04997830691147s",
+            }
+          }
+          width={7.408408828999072}>
+          <filter
+            height="1000%"
+            id="blur-star-75"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.46438858452739995} />
+          </filter>
+          <circle
+            cx={3.704204414499536}
+            cy={3.704204414499536}
+            fill="white"
+            filter="url(#blur-star-75)"
+            r={1.2347348048331785}
+            stroke="#281f60"
+            strokeWidth={0.13858891730918382} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "157ms",
+            "animationDuration": "718ms",
+            "left": "16.672303284001654%",
+            "top": "50.22176654738188%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-sideShift_10dabe7"
+          height={4.439665270144026}
+          style={
+            Object {
+              "animationDelay": "939ms",
+              "animationDuration": "14.520705589384256s",
+            }
+          }
+          width={4.439665270144026}>
+          <filter
+            height="1000%"
+            id="blur-star-76"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.49716093236505654} />
+          </filter>
+          <circle
+            cx={2.219832635072013}
+            cy={2.219832635072013}
+            fill="white"
+            filter="url(#blur-star-76)"
+            r={0.739944211690671}
+            stroke="#281f60"
+            strokeWidth={0.378636685417827} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "901ms",
+            "animationDuration": "2718ms",
+            "left": "27.323228444003764%",
+            "top": "73.1733838308753%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-pulse_1p7c6ab"
+          height={2.2525531003076114}
+          style={
+            Object {
+              "animationDelay": "1242ms",
+              "animationDuration": "12.92028537803126s",
+            }
+          }
+          width={2.2525531003076114}>
+          <filter
+            height="1000%"
+            id="blur-star-77"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.428023702163585} />
+          </filter>
+          <circle
+            cx={1.1262765501538057}
+            cy={1.1262765501538057}
+            fill="white"
+            filter="url(#blur-star-77)"
+            r={0.3754255167179352}
+            stroke="#281f60"
+            strokeWidth={0.27918712734195805} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "451ms",
+            "animationDuration": "3432ms",
+            "left": "18.20396319169485%",
+            "top": "70.86238256792947%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-blinkOut_1l6jjxy"
+          height={7.115047123586117}
+          style={
+            Object {
+              "animationDelay": "230ms",
+              "animationDuration": "14.520386273156175s",
+            }
+          }
+          width={7.115047123586117}>
+          <filter
+            height="1000%"
+            id="blur-star-78"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.1173148892228043} />
+          </filter>
+          <circle
+            cx={3.5575235617930585}
+            cy={3.5575235617930585}
+            fill="white"
+            filter="url(#blur-star-78)"
+            r={1.1858411872643528}
+            stroke="#281f60"
+            strokeWidth={0.6788029048363071} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "399ms",
+            "animationDuration": "2886ms",
+            "left": "77.0369656565213%",
+            "top": "9.647204053271153%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-blinkOut_1l6jjxy"
+          height={8.897743583802335}
+          style={
+            Object {
+              "animationDelay": "1463ms",
+              "animationDuration": "8.634705162510762s",
+            }
+          }
+          width={8.897743583802335}>
+          <filter
+            height="1000%"
+            id="blur-star-79"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.12025958419176269} />
+          </filter>
+          <circle
+            cx={4.448871791901167}
+            cy={4.448871791901167}
+            fill="white"
+            filter="url(#blur-star-79)"
+            r={1.4829572639670556}
+            stroke="#281f60"
+            strokeWidth={0.2537231165091569} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "399ms",
+            "animationDuration": "2162ms",
+            "left": "68.6332430506955%",
+            "top": "63.985233311104075%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-bright_1fuysop"
+          height={8.946533785678403}
+          style={
+            Object {
+              "animationDelay": "1018ms",
+              "animationDuration": "19.14752079566439s",
+            }
+          }
+          width={8.946533785678403}>
+          <filter
+            height="1000%"
+            id="blur-star-80"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.4278231540995956} />
+          </filter>
+          <circle
+            cx={4.473266892839201}
+            cy={4.473266892839201}
+            fill="white"
+            filter="url(#blur-star-80)"
+            r={1.4910889642797338}
+            stroke="#281f60"
+            strokeWidth={0.13390894234506184} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "875ms",
+            "animationDuration": "2812ms",
+            "left": "56.88238325276275%",
+            "top": "26.15451395402899%",
+          }
+        }>
+        <svg
+          className="star_16oth9z"
+          height={6.468200806664662}
+          style={
+            Object {
+              "animationDelay": "272ms",
+              "animationDuration": "10.464675227066778s",
+            }
+          }
+          width={6.468200806664662}>
+          <filter
+            height="1000%"
+            id="blur-star-81"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.2950429788407269} />
+          </filter>
+          <circle
+            cx={3.234100403332331}
+            cy={3.234100403332331}
+            fill="white"
+            filter="url(#blur-star-81)"
+            r={1.0780334677774437}
+            stroke="#281f60"
+            strokeWidth={0.6909535895853702} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "700ms",
+            "animationDuration": "2137ms",
+            "left": "58.75448211946393%",
+            "top": "85.74212152059825%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-bright_1fuysop"
+          height={6.140763987042359}
+          style={
+            Object {
+              "animationDelay": "1785ms",
+              "animationDuration": "5.8213250354252875s",
+            }
+          }
+          width={6.140763987042359}>
+          <filter
+            height="1000%"
+            id="blur-star-82"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.20339124471698905} />
+          </filter>
+          <circle
+            cx={3.0703819935211794}
+            cy={3.0703819935211794}
+            fill="white"
+            filter="url(#blur-star-82)"
+            r={1.0234606645070599}
+            stroke="#281f60"
+            strokeWidth={0.3960495216531488} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "871ms",
+            "animationDuration": "742ms",
+            "left": "34.86500110802072%",
+            "top": "41.966616994301134%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-bright_1fuysop"
+          height={8.639553029901045}
+          style={
+            Object {
+              "animationDelay": "399ms",
+              "animationDuration": "9.29317183972454s",
+            }
+          }
+          width={8.639553029901045}>
+          <filter
+            height="1000%"
+            id="blur-star-83"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.40267373035207166} />
+          </filter>
+          <circle
+            cx={4.319776514950522}
+            cy={4.319776514950522}
+            fill="white"
+            filter="url(#blur-star-83)"
+            r={1.4399255049835076}
+            stroke="#281f60"
+            strokeWidth={0.2548944281938883} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "436ms",
+            "animationDuration": "2274ms",
+            "left": "36.7045716273008%",
+            "top": "92.00991053507808%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-sideShift_10dabe7"
+          height={4.397866617074626}
+          style={
+            Object {
+              "animationDelay": "897ms",
+              "animationDuration": "19.5528715500351s",
+            }
+          }
+          width={4.397866617074626}>
+          <filter
+            height="1000%"
+            id="blur-star-84"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.44871314240149773} />
+          </filter>
+          <circle
+            cx={2.198933308537313}
+            cy={2.198933308537313}
+            fill="white"
+            filter="url(#blur-star-84)"
+            r={0.7329777695124376}
+            stroke="#281f60"
+            strokeWidth={0.5952926656531958} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "484ms",
+            "animationDuration": "3032ms",
+            "left": "95.93421939639248%",
+            "top": "9.748270928541622%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-pulse_1p7c6ab"
+          height={2.555896322224905}
+          style={
+            Object {
+              "animationDelay": "2689ms",
+              "animationDuration": "13.116525446149137s",
+            }
+          }
+          width={2.555896322224905}>
+          <filter
+            height="1000%"
+            id="blur-star-85"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.10162211738432836} />
+          </filter>
+          <circle
+            cx={1.2779481611124526}
+            cy={1.2779481611124526}
+            fill="white"
+            filter="url(#blur-star-85)"
+            r={0.4259827203708175}
+            stroke="#281f60"
+            strokeWidth={0.19847949889566813} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "193ms",
+            "animationDuration": "3474ms",
+            "left": "91.25023789217555%",
+            "top": "68.90761739409639%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-pulse_1p7c6ab"
+          height={5.80863112935036}
+          style={
+            Object {
+              "animationDelay": "1340ms",
+              "animationDuration": "6.050066116294607s",
+            }
+          }
+          width={5.80863112935036}>
+          <filter
+            height="1000%"
+            id="blur-star-86"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.28809214045391746} />
+          </filter>
+          <circle
+            cx={2.90431556467518}
+            cy={2.90431556467518}
+            fill="white"
+            filter="url(#blur-star-86)"
+            r={0.96810518822506}
+            stroke="#281f60"
+            strokeWidth={0.4576296463862468} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "60ms",
+            "animationDuration": "778ms",
+            "left": "7.539159702047061%",
+            "top": "60.64949311975762%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-bright_1fuysop"
+          height={3.5537247759820123}
+          style={
+            Object {
+              "animationDelay": "1179ms",
+              "animationDuration": "7.1381585014361075s",
+            }
+          }
+          width={3.5537247759820123}>
+          <filter
+            height="1000%"
+            id="blur-star-87"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.14386350163412748} />
+          </filter>
+          <circle
+            cx={1.7768623879910062}
+            cy={1.7768623879910062}
+            fill="white"
+            filter="url(#blur-star-87)"
+            r={0.5922874626636687}
+            stroke="#281f60"
+            strokeWidth={0.05984518992553217} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "819ms",
+            "animationDuration": "1443ms",
+            "left": "12.465202297958765%",
+            "top": "15.537728650640155%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-slowFade_qlxf0z"
+          height={2.256696829472591}
+          style={
+            Object {
+              "animationDelay": "2474ms",
+              "animationDuration": "11.837752911579173s",
+            }
+          }
+          width={2.256696829472591}>
+          <filter
+            height="1000%"
+            id="blur-star-88"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.22270584450750414} />
+          </filter>
+          <circle
+            cx={1.1283484147362954}
+            cy={1.1283484147362954}
+            fill="white"
+            filter="url(#blur-star-88)"
+            r={0.3761161382454318}
+            stroke="#281f60"
+            strokeWidth={0.5264032454449594} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "22ms",
+            "animationDuration": "306ms",
+            "left": "72.413714220952%",
+            "top": "66.34600054000339%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-grower_1orjwfg"
+          height={8.921907523813136}
+          style={
+            Object {
+              "animationDelay": "917ms",
+              "animationDuration": "6.5730549904898155s",
+            }
+          }
+          width={8.921907523813136}>
+          <filter
+            height="1000%"
+            id="blur-star-89"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.4207084482844662} />
+          </filter>
+          <circle
+            cx={4.460953761906568}
+            cy={4.460953761906568}
+            fill="white"
+            filter="url(#blur-star-89)"
+            r={1.4869845873021892}
+            stroke="#281f60"
+            strokeWidth={0.3625216168118797} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "502ms",
+            "animationDuration": "1579ms",
+            "left": "77.67442824906071%",
+            "top": "84.02513744072814%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-blinkOut_1l6jjxy"
+          height={8.557376846585965}
+          style={
+            Object {
+              "animationDelay": "1109ms",
+              "animationDuration": "19.813164120288324s",
+            }
+          }
+          width={8.557376846585965}>
+          <filter
+            height="1000%"
+            id="blur-star-90"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.10736760999988465} />
+          </filter>
+          <circle
+            cx={4.278688423292983}
+            cy={4.278688423292983}
+            fill="white"
+            filter="url(#blur-star-90)"
+            r={1.4262294744309942}
+            stroke="#281f60"
+            strokeWidth={0.33095587751849975} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "386ms",
+            "animationDuration": "1323ms",
+            "left": "81.957007981057%",
+            "top": "71.64540887856023%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-pulse_1p7c6ab"
+          height={3.6791226918303406}
+          style={
+            Object {
+              "animationDelay": "321ms",
+              "animationDuration": "11.402151743872619s",
+            }
+          }
+          width={3.6791226918303406}>
+          <filter
+            height="1000%"
+            id="blur-star-91"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.32172120162510176} />
+          </filter>
+          <circle
+            cx={1.8395613459151703}
+            cy={1.8395613459151703}
+            fill="white"
+            filter="url(#blur-star-91)"
+            r={0.6131871153050568}
+            stroke="#281f60"
+            strokeWidth={0.11406851534662865} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "318ms",
+            "animationDuration": "650ms",
+            "left": "5.075522204841018%",
+            "top": "22.160060233625348%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-dormant_bmsd38"
+          height={6.163655770032393}
+          style={
+            Object {
+              "animationDelay": "1130ms",
+              "animationDuration": "12.130496085598597s",
+            }
+          }
+          width={6.163655770032393}>
+          <filter
+            height="1000%"
+            id="blur-star-92"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.3911724874054757} />
+          </filter>
+          <circle
+            cx={3.0818278850161964}
+            cy={3.0818278850161964}
+            fill="white"
+            filter="url(#blur-star-92)"
+            r={1.0272759616720655}
+            stroke="#281f60"
+            strokeWidth={0.22716512811952805} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "123ms",
+            "animationDuration": "1548ms",
+            "left": "11.85040713730809%",
+            "top": "69.97684282976266%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-dormant_bmsd38"
+          height={8.2488404762813}
+          style={
+            Object {
+              "animationDelay": "1597ms",
+              "animationDuration": "18.70244647541689s",
+            }
+          }
+          width={8.2488404762813}>
+          <filter
+            height="1000%"
+            id="blur-star-93"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.4905411746972991} />
+          </filter>
+          <circle
+            cx={4.12442023814065}
+            cy={4.12442023814065}
+            fill="white"
+            filter="url(#blur-star-93)"
+            r={1.3748067460468834}
+            stroke="#281f60"
+            strokeWidth={0.4665941961393901} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "788ms",
+            "animationDuration": "761ms",
+            "left": "40.08539436974738%",
+            "top": "67.93139077965803%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-slowFade_qlxf0z"
+          height={6.031521115071716}
+          style={
+            Object {
+              "animationDelay": "1022ms",
+              "animationDuration": "15.875293656141306s",
+            }
+          }
+          width={6.031521115071716}>
+          <filter
+            height="1000%"
+            id="blur-star-94"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.2928649979846929} />
+          </filter>
+          <circle
+            cx={3.015760557535858}
+            cy={3.015760557535858}
+            fill="white"
+            filter="url(#blur-star-94)"
+            r={1.0052535191786194}
+            stroke="#281f60"
+            strokeWidth={0.12585081678109156} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "404ms",
+            "animationDuration": "2212ms",
+            "left": "16.728410352622696%",
+            "top": "63.25854980406804%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-bright_1fuysop"
+          height={4.084082988258196}
+          style={
+            Object {
+              "animationDelay": "258ms",
+              "animationDuration": "10.54880180973816s",
+            }
+          }
+          width={4.084082988258196}>
+          <filter
+            height="1000%"
+            id="blur-star-95"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.4926413322304569} />
+          </filter>
+          <circle
+            cx={2.042041494129098}
+            cy={2.042041494129098}
+            fill="white"
+            filter="url(#blur-star-95)"
+            r={0.6806804980430325}
+            stroke="#281f60"
+            strokeWidth={0.3768210970446069} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "123ms",
+            "animationDuration": "2527ms",
+            "left": "82.38204759071989%",
+            "top": "50.379267962713676%",
+          }
+        }>
+        <svg
+          className="star_16oth9z"
+          height={4.26072203682351}
+          style={
+            Object {
+              "animationDelay": "2172ms",
+              "animationDuration": "6.743104883806491s",
+            }
+          }
+          width={4.26072203682351}>
+          <filter
+            height="1000%"
+            id="blur-star-96"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.2334635614511644} />
+          </filter>
+          <circle
+            cx={2.130361018411755}
+            cy={2.130361018411755}
+            fill="white"
+            filter="url(#blur-star-96)"
+            r={0.710120339470585}
+            stroke="#281f60"
+            strokeWidth={0.5053825814804427} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "900ms",
+            "animationDuration": "2823ms",
+            "left": "24.55091472056818%",
+            "top": "14.140766939046863%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-blinkOut_1l6jjxy"
+          height={3.780305544444884}
+          style={
+            Object {
+              "animationDelay": "374ms",
+              "animationDuration": "18.795771316073857s",
+            }
+          }
+          width={3.780305544444884}>
+          <filter
+            height="1000%"
+            id="blur-star-97"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.11648419400678592} />
+          </filter>
+          <circle
+            cx={1.890152772222442}
+            cy={1.890152772222442}
+            fill="white"
+            filter="url(#blur-star-97)"
+            r={0.6300509240741473}
+            stroke="#281f60"
+            strokeWidth={0.029762367883817142} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "143ms",
+            "animationDuration": "3787ms",
+            "left": "30.019749308483817%",
+            "top": "88.76388903112462%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-sideShift_10dabe7"
+          height={4.32788399426575}
+          style={
+            Object {
+              "animationDelay": "1351ms",
+              "animationDuration": "8.264561815275925s",
+            }
+          }
+          width={4.32788399426575}>
+          <filter
+            height="1000%"
+            id="blur-star-98"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.2518597666566581} />
+          </filter>
+          <circle
+            cx={2.163941997132875}
+            cy={2.163941997132875}
+            fill="white"
+            filter="url(#blur-star-98)"
+            r={0.7213139990442916}
+            stroke="#281f60"
+            strokeWidth={0.3006709210806496} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "380ms",
+            "animationDuration": "594ms",
+            "left": "76.22693303048558%",
+            "top": "97.95672468890633%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-grower_1orjwfg"
+          height={1.8645338588883078}
+          style={
+            Object {
+              "animationDelay": "899ms",
+              "animationDuration": "11.65844799943186s",
+            }
+          }
+          width={1.8645338588883078}>
+          <filter
+            height="1000%"
+            id="blur-star-99"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.4869072583028422} />
+          </filter>
+          <circle
+            cx={0.9322669294441539}
+            cy={0.9322669294441539}
+            fill="white"
+            filter="url(#blur-star-99)"
+            r={0.3107556431480513}
+            stroke="#281f60"
+            strokeWidth={0.49801606496420137} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "909ms",
+            "animationDuration": "2215ms",
+            "left": "33.52975796599432%",
+            "top": "45.50789163639027%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-bright_1fuysop"
+          height={5.177344657807934}
+          style={
+            Object {
+              "animationDelay": "2859ms",
+              "animationDuration": "19.868973918197604s",
+            }
+          }
+          width={5.177344657807934}>
+          <filter
+            height="1000%"
+            id="blur-star-100"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.4034403235440237} />
+          </filter>
+          <circle
+            cx={2.588672328903967}
+            cy={2.588672328903967}
+            fill="white"
+            filter="url(#blur-star-100)"
+            r={0.8628907763013223}
+            stroke="#281f60"
+            strokeWidth={0.33807140503370375} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "472ms",
+            "animationDuration": "831ms",
+            "left": "36.22412248673641%",
+            "top": "6.003821552141201%",
+          }
+        }>
+        <svg
+          className="star_16oth9z"
+          height={1.9920339073854385}
+          style={
+            Object {
+              "animationDelay": "778ms",
+              "animationDuration": "10.746406985608278s",
+            }
+          }
+          width={1.9920339073854385}>
+          <filter
+            height="1000%"
+            id="blur-star-101"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.3759549771404045} />
+          </filter>
+          <circle
+            cx={0.9960169536927193}
+            cy={0.9960169536927193}
+            fill="white"
+            filter="url(#blur-star-101)"
+            r={0.3320056512309064}
+            stroke="#281f60"
+            strokeWidth={0.4286785887025494} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "356ms",
+            "animationDuration": "719ms",
+            "left": "80.2219781660429%",
+            "top": "90.65074673143775%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-sideShift_10dabe7"
+          height={6.153166376326053}
+          style={
+            Object {
+              "animationDelay": "2813ms",
+              "animationDuration": "11.986277371309034s",
+            }
+          }
+          width={6.153166376326053}>
+          <filter
+            height="1000%"
+            id="blur-star-102"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.32378265462425626} />
+          </filter>
+          <circle
+            cx={3.0765831881630263}
+            cy={3.0765831881630263}
+            fill="white"
+            filter="url(#blur-star-102)"
+            r={1.0255277293876754}
+            stroke="#281f60"
+            strokeWidth={0.05852610956225113} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "638ms",
+            "animationDuration": "2634ms",
+            "left": "18.102846254306918%",
+            "top": "15.660816526998326%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-grower_1orjwfg"
+          height={6.4540280520449205}
+          style={
+            Object {
+              "animationDelay": "117ms",
+              "animationDuration": "19.70953529250283s",
+            }
+          }
+          width={6.4540280520449205}>
+          <filter
+            height="1000%"
+            id="blur-star-103"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.1473850924084733} />
+          </filter>
+          <circle
+            cx={3.2270140260224602}
+            cy={3.2270140260224602}
+            fill="white"
+            filter="url(#blur-star-103)"
+            r={1.0756713420074868}
+            stroke="#281f60"
+            strokeWidth={0.06714976501978881} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "633ms",
+            "animationDuration": "3305ms",
+            "left": "72.73759788414611%",
+            "top": "19.98945044873262%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-dormant_bmsd38"
+          height={6.109174675278295}
+          style={
+            Object {
+              "animationDelay": "2973ms",
+              "animationDuration": "5.882141050858039s",
+            }
+          }
+          width={6.109174675278295}>
+          <filter
+            height="1000%"
+            id="blur-star-104"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.353766114300356} />
+          </filter>
+          <circle
+            cx={3.0545873376391475}
+            cy={3.0545873376391475}
+            fill="white"
+            filter="url(#blur-star-104)"
+            r={1.0181957792130492}
+            stroke="#281f60"
+            strokeWidth={0.5872254543601476} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "611ms",
+            "animationDuration": "255ms",
+            "left": "92.8831260800923%",
+            "top": "57.72702652078298%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-grower_1orjwfg"
+          height={8.260890698155968}
+          style={
+            Object {
+              "animationDelay": "1463ms",
+              "animationDuration": "6.455851340164518s",
+            }
+          }
+          width={8.260890698155968}>
+          <filter
+            height="1000%"
+            id="blur-star-105"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.3944487569997909} />
+          </filter>
+          <circle
+            cx={4.130445349077984}
+            cy={4.130445349077984}
+            fill="white"
+            filter="url(#blur-star-105)"
+            r={1.376815116359328}
+            stroke="#281f60"
+            strokeWidth={0.43742529620545145} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "105ms",
+            "animationDuration": "447ms",
+            "left": "64.92241005865414%",
+            "top": "31.682313449920805%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-pulse_1p7c6ab"
+          height={1.6974451349468875}
+          style={
+            Object {
+              "animationDelay": "1454ms",
+              "animationDuration": "17.807691751908962s",
+            }
+          }
+          width={1.6974451349468875}>
+          <filter
+            height="1000%"
+            id="blur-star-106"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.35009848526818266} />
+          </filter>
+          <circle
+            cx={0.8487225674734438}
+            cy={0.8487225674734438}
+            fill="white"
+            filter="url(#blur-star-106)"
+            r={0.2829075224911479}
+            stroke="#281f60"
+            strokeWidth={0.7141557259076554} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "202ms",
+            "animationDuration": "2042ms",
+            "left": "96.69326136822576%",
+            "top": "4.126135249554451%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-slowFade_qlxf0z"
+          height={5.849029795939626}
+          style={
+            Object {
+              "animationDelay": "913ms",
+              "animationDuration": "13.505376003965448s",
+            }
+          }
+          width={5.849029795939626}>
+          <filter
+            height="1000%"
+            id="blur-star-107"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.430042017608675} />
+          </filter>
+          <circle
+            cx={2.924514897969813}
+            cy={2.924514897969813}
+            fill="white"
+            filter="url(#blur-star-107)"
+            r={0.974838299323271}
+            stroke="#281f60"
+            strokeWidth={0.0655278751071055} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "817ms",
+            "animationDuration": "2414ms",
+            "left": "16.812467620386272%",
+            "top": "44.31464193354939%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-pulse_1p7c6ab"
+          height={6.313474216858765}
+          style={
+            Object {
+              "animationDelay": "87ms",
+              "animationDuration": "15.936035428257066s",
+            }
+          }
+          width={6.313474216858765}>
+          <filter
+            height="1000%"
+            id="blur-star-108"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.18985779376432116} />
+          </filter>
+          <circle
+            cx={3.1567371084293825}
+            cy={3.1567371084293825}
+            fill="white"
+            filter="url(#blur-star-108)"
+            r={1.0522457028097942}
+            stroke="#281f60"
+            strokeWidth={0.23320034196173106} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "135ms",
+            "animationDuration": "2735ms",
+            "left": "41.776917623634574%",
+            "top": "98.01061648471881%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-grower_1orjwfg"
+          height={4.261614720856965}
+          style={
+            Object {
+              "animationDelay": "1344ms",
+              "animationDuration": "7.076267250208578s",
+            }
+          }
+          width={4.261614720856965}>
+          <filter
+            height="1000%"
+            id="blur-star-109"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.182806766616603} />
+          </filter>
+          <circle
+            cx={2.1308073604284825}
+            cy={2.1308073604284825}
+            fill="white"
+            filter="url(#blur-star-109)"
+            r={0.7102691201428275}
+            stroke="#281f60"
+            strokeWidth={0.35673487052603586} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "111ms",
+            "animationDuration": "1610ms",
+            "left": "94.60148231780593%",
+            "top": "39.60152315288164%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-blinkOut_1l6jjxy"
+          height={7.950029971212954}
+          style={
+            Object {
+              "animationDelay": "125ms",
+              "animationDuration": "13.288743851950516s",
+            }
+          }
+          width={7.950029971212954}>
+          <filter
+            height="1000%"
+            id="blur-star-110"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.23566236083114056} />
+          </filter>
+          <circle
+            cx={3.975014985606477}
+            cy={3.975014985606477}
+            fill="white"
+            filter="url(#blur-star-110)"
+            r={1.325004995202159}
+            stroke="#281f60"
+            strokeWidth={0.5180718156097056} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "540ms",
+            "animationDuration": "1604ms",
+            "left": "14.253265135723098%",
+            "top": "43.533700604850566%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-grower_1orjwfg"
+          height={6.945180861570708}
+          style={
+            Object {
+              "animationDelay": "1709ms",
+              "animationDuration": "13.247021393692082s",
+            }
+          }
+          width={6.945180861570708}>
+          <filter
+            height="1000%"
+            id="blur-star-111"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.3905050646445887} />
+          </filter>
+          <circle
+            cx={3.472590430785354}
+            cy={3.472590430785354}
+            fill="white"
+            filter="url(#blur-star-111)"
+            r={1.157530143595118}
+            stroke="#281f60"
+            strokeWidth={0.1638077776372357} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "166ms",
+            "animationDuration": "3980ms",
+            "left": "72.01695146050162%",
+            "top": "99.0477541284477%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-slowFade_qlxf0z"
+          height={3.168366246020566}
+          style={
+            Object {
+              "animationDelay": "238ms",
+              "animationDuration": "18.67377096115412s",
+            }
+          }
+          width={3.168366246020566}>
+          <filter
+            height="1000%"
+            id="blur-star-112"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.4596196584714606} />
+          </filter>
+          <circle
+            cx={1.584183123010283}
+            cy={1.584183123010283}
+            fill="white"
+            filter="url(#blur-star-112)"
+            r={0.5280610410034277}
+            stroke="#281f60"
+            strokeWidth={0.6698052346215421} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "166ms",
+            "animationDuration": "1239ms",
+            "left": "87.60445774556644%",
+            "top": "49.55887838695067%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-slowFade_qlxf0z"
+          height={2.775353224253153}
+          style={
+            Object {
+              "animationDelay": "1744ms",
+              "animationDuration": "12.436016481618234s",
+            }
+          }
+          width={2.775353224253153}>
+          <filter
+            height="1000%"
+            id="blur-star-113"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.1277165172289353} />
+          </filter>
+          <circle
+            cx={1.3876766121265764}
+            cy={1.3876766121265764}
+            fill="white"
+            filter="url(#blur-star-113)"
+            r={0.4625588707088588}
+            stroke="#281f60"
+            strokeWidth={0.03839974670301788} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "821ms",
+            "animationDuration": "1106ms",
+            "left": "29.621643631528883%",
+            "top": "19.791088022879244%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-bright_1fuysop"
+          height={4.229783836468455}
+          style={
+            Object {
+              "animationDelay": "1662ms",
+              "animationDuration": "18.309060338981364s",
+            }
+          }
+          width={4.229783836468455}>
+          <filter
+            height="1000%"
+            id="blur-star-114"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.17498002488544212} />
+          </filter>
+          <circle
+            cx={2.1148919182342274}
+            cy={2.1148919182342274}
+            fill="white"
+            filter="url(#blur-star-114)"
+            r={0.7049639727447424}
+            stroke="#281f60"
+            strokeWidth={0.15852346588469074} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "594ms",
+            "animationDuration": "2761ms",
+            "left": "46.46893533175524%",
+            "top": "8.194124162729569%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-sideShift_10dabe7"
+          height={3.686111835948971}
+          style={
+            Object {
+              "animationDelay": "1113ms",
+              "animationDuration": "14.914113423418245s",
+            }
+          }
+          width={3.686111835948971}>
+          <filter
+            height="1000%"
+            id="blur-star-115"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.3195195431163341} />
+          </filter>
+          <circle
+            cx={1.8430559179744854}
+            cy={1.8430559179744854}
+            fill="white"
+            filter="url(#blur-star-115)"
+            r={0.6143519726581618}
+            stroke="#281f60"
+            strokeWidth={0.4962779662113678} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "198ms",
+            "animationDuration": "1846ms",
+            "left": "57.801466808431975%",
+            "top": "53.10114484923746%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-pulse_1p7c6ab"
+          height={2.1426189479609032}
+          style={
+            Object {
+              "animationDelay": "2277ms",
+              "animationDuration": "9.938416050058175s",
+            }
+          }
+          width={2.1426189479609032}>
+          <filter
+            height="1000%"
+            id="blur-star-116"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.4690111658603945} />
+          </filter>
+          <circle
+            cx={1.0713094739804516}
+            cy={1.0713094739804516}
+            fill="white"
+            filter="url(#blur-star-116)"
+            r={0.3571031579934839}
+            stroke="#281f60"
+            strokeWidth={0.710739706484585} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "830ms",
+            "animationDuration": "2683ms",
+            "left": "58.336532696335894%",
+            "top": "70.46686515231212%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-blinkOut_1l6jjxy"
+          height={3.2454480604817215}
+          style={
+            Object {
+              "animationDelay": "1366ms",
+              "animationDuration": "18.113870363314795s",
+            }
+          }
+          width={3.2454480604817215}>
+          <filter
+            height="1000%"
+            id="blur-star-117"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.20980096203002063} />
+          </filter>
+          <circle
+            cx={1.6227240302408608}
+            cy={1.6227240302408608}
+            fill="white"
+            filter="url(#blur-star-117)"
+            r={0.5409080100802869}
+            stroke="#281f60"
+            strokeWidth={0.6652896596445748} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "150ms",
+            "animationDuration": "868ms",
+            "left": "92.46750577464988%",
+            "top": "48.166804855971996%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-bright_1fuysop"
+          height={3.031518402236208}
+          style={
+            Object {
+              "animationDelay": "2959ms",
+              "animationDuration": "11.690252292982954s",
+            }
+          }
+          width={3.031518402236208}>
+          <filter
+            height="1000%"
+            id="blur-star-118"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.4075511907216969} />
+          </filter>
+          <circle
+            cx={1.515759201118104}
+            cy={1.515759201118104}
+            fill="white"
+            filter="url(#blur-star-118)"
+            r={0.505253067039368}
+            stroke="#281f60"
+            strokeWidth={0.07843062540007395} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "515ms",
+            "animationDuration": "2749ms",
+            "left": "25.567311857282448%",
+            "top": "54.06768932201228%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-pulse_1p7c6ab"
+          height={2.9717352831699717}
+          style={
+            Object {
+              "animationDelay": "1423ms",
+              "animationDuration": "16.855680178817877s",
+            }
+          }
+          width={2.9717352831699717}>
+          <filter
+            height="1000%"
+            id="blur-star-119"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.188630250971375} />
+          </filter>
+          <circle
+            cx={1.4858676415849859}
+            cy={1.4858676415849859}
+            fill="white"
+            filter="url(#blur-star-119)"
+            r={0.4952892138616619}
+            stroke="#281f60"
+            strokeWidth={0.29266906734863557} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "396ms",
+            "animationDuration": "259ms",
+            "left": "40.274285187133145%",
+            "top": "18.63931982783153%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-bright_1fuysop"
+          height={4.14126650157116}
+          style={
+            Object {
+              "animationDelay": "2066ms",
+              "animationDuration": "13.793386355131325s",
+            }
+          }
+          width={4.14126650157116}>
+          <filter
+            height="1000%"
+            id="blur-star-120"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.15302003674135306} />
+          </filter>
+          <circle
+            cx={2.07063325078558}
+            cy={2.07063325078558}
+            fill="white"
+            filter="url(#blur-star-120)"
+            r={0.6902110835951933}
+            stroke="#281f60"
+            strokeWidth={0.6689807760469466} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "27ms",
+            "animationDuration": "475ms",
+            "left": "83.04466860959751%",
+            "top": "85.67060849551734%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-slowFade_qlxf0z"
+          height={8.552506869619963}
+          style={
+            Object {
+              "animationDelay": "2716ms",
+              "animationDuration": "15.752825005515877s",
+            }
+          }
+          width={8.552506869619963}>
+          <filter
+            height="1000%"
+            id="blur-star-121"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.3916234101214594} />
+          </filter>
+          <circle
+            cx={4.276253434809981}
+            cy={4.276253434809981}
+            fill="white"
+            filter="url(#blur-star-121)"
+            r={1.4254178116033271}
+            stroke="#281f60"
+            strokeWidth={0.39187300950212395} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "947ms",
+            "animationDuration": "3644ms",
+            "left": "66.96207614278985%",
+            "top": "16.708461626359057%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-bright_1fuysop"
+          height={1.6803218095654775}
+          style={
+            Object {
+              "animationDelay": "597ms",
+              "animationDuration": "5.508068366018547s",
+            }
+          }
+          width={1.6803218095654775}>
+          <filter
+            height="1000%"
+            id="blur-star-122"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.13697698148156584} />
+          </filter>
+          <circle
+            cx={0.8401609047827387}
+            cy={0.8401609047827387}
+            fill="white"
+            filter="url(#blur-star-122)"
+            r={0.28005363492757956}
+            stroke="#281f60"
+            strokeWidth={0.6505925053829431} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "310ms",
+            "animationDuration": "1681ms",
+            "left": "63.80174955974609%",
+            "top": "13.088660737139516%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-grower_1orjwfg"
+          height={5.4629586593963575}
+          style={
+            Object {
+              "animationDelay": "1471ms",
+              "animationDuration": "15.811586887162623s",
+            }
+          }
+          width={5.4629586593963575}>
+          <filter
+            height="1000%"
+            id="blur-star-123"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.101812254707004} />
+          </filter>
+          <circle
+            cx={2.7314793296981787}
+            cy={2.7314793296981787}
+            fill="white"
+            filter="url(#blur-star-123)"
+            r={0.9104931098993929}
+            stroke="#281f60"
+            strokeWidth={0.3376465211979204} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "571ms",
+            "animationDuration": "2569ms",
+            "left": "15.927584220438273%",
+            "top": "23.70949923192852%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-slowFade_qlxf0z"
+          height={2.321863685825405}
+          style={
+            Object {
+              "animationDelay": "2495ms",
+              "animationDuration": "12.068598050700047s",
+            }
+          }
+          width={2.321863685825405}>
+          <filter
+            height="1000%"
+            id="blur-star-124"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.17932688432323768} />
+          </filter>
+          <circle
+            cx={1.1609318429127025}
+            cy={1.1609318429127025}
+            fill="white"
+            filter="url(#blur-star-124)"
+            r={0.3869772809709008}
+            stroke="#281f60"
+            strokeWidth={0.7499392935044166} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "205ms",
+            "animationDuration": "980ms",
+            "left": "59.745432967478756%",
+            "top": "48.37183665323925%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-grower_1orjwfg"
+          height={4.961163045402421}
+          style={
+            Object {
+              "animationDelay": "47ms",
+              "animationDuration": "17.13861214126512s",
+            }
+          }
+          width={4.961163045402421}>
+          <filter
+            height="1000%"
+            id="blur-star-125"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.3365531029562595} />
+          </filter>
+          <circle
+            cx={2.4805815227012107}
+            cy={2.4805815227012107}
+            fill="white"
+            filter="url(#blur-star-125)"
+            r={0.8268605075670702}
+            stroke="#281f60"
+            strokeWidth={0.4743621616231221} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "94ms",
+            "animationDuration": "3214ms",
+            "left": "23.7850236867073%",
+            "top": "90.29360483659048%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-pulse_1p7c6ab"
+          height={5.553666174730294}
+          style={
+            Object {
+              "animationDelay": "967ms",
+              "animationDuration": "10.636717347884812s",
+            }
+          }
+          width={5.553666174730294}>
+          <filter
+            height="1000%"
+            id="blur-star-126"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.2430685709538638} />
+          </filter>
+          <circle
+            cx={2.776833087365147}
+            cy={2.776833087365147}
+            fill="white"
+            filter="url(#blur-star-126)"
+            r={0.9256110291217157}
+            stroke="#281f60"
+            strokeWidth={0.5634815412475596} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "79ms",
+            "animationDuration": "1922ms",
+            "left": "62.03404407063595%",
+            "top": "61.12919668830839%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-blinkOut_1l6jjxy"
+          height={6.922388814301949}
+          style={
+            Object {
+              "animationDelay": "1741ms",
+              "animationDuration": "14.4402667737957s",
+            }
+          }
+          width={6.922388814301949}>
+          <filter
+            height="1000%"
+            id="blur-star-127"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.15508926243429713} />
+          </filter>
+          <circle
+            cx={3.4611944071509746}
+            cy={3.4611944071509746}
+            fill="white"
+            filter="url(#blur-star-127)"
+            r={1.1537314690503249}
+            stroke="#281f60"
+            strokeWidth={0.5756165187512956} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "92ms",
+            "animationDuration": "3540ms",
+            "left": "36.65918273314295%",
+            "top": "29.13871696180457%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-grower_1orjwfg"
+          height={3.8910958255838124}
+          style={
+            Object {
+              "animationDelay": "579ms",
+              "animationDuration": "8.732198837423395s",
+            }
+          }
+          width={3.8910958255838124}>
+          <filter
+            height="1000%"
+            id="blur-star-128"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.3067113447974338} />
+          </filter>
+          <circle
+            cx={1.9455479127919062}
+            cy={1.9455479127919062}
+            fill="white"
+            filter="url(#blur-star-128)"
+            r={0.6485159709306354}
+            stroke="#281f60"
+            strokeWidth={0.31354052492124035} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "195ms",
+            "animationDuration": "830ms",
+            "left": "58.99468740806106%",
+            "top": "41.024553846301565%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-blinkOut_1l6jjxy"
+          height={6.964496977088099}
+          style={
+            Object {
+              "animationDelay": "2386ms",
+              "animationDuration": "11.46266710807895s",
+            }
+          }
+          width={6.964496977088099}>
+          <filter
+            height="1000%"
+            id="blur-star-129"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.1220839094604342} />
+          </filter>
+          <circle
+            cx={3.4822484885440494}
+            cy={3.4822484885440494}
+            fill="white"
+            filter="url(#blur-star-129)"
+            r={1.1607494961813498}
+            stroke="#281f60"
+            strokeWidth={0.5326557692500431} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "501ms",
+            "animationDuration": "1568ms",
+            "left": "97.27536537430814%",
+            "top": "21.401779434036477%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-pulse_1p7c6ab"
+          height={2.3207180775903407}
+          style={
+            Object {
+              "animationDelay": "2039ms",
+              "animationDuration": "10.452189164478924s",
+            }
+          }
+          width={2.3207180775903407}>
+          <filter
+            height="1000%"
+            id="blur-star-130"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.2333488186369766} />
+          </filter>
+          <circle
+            cx={1.1603590387951703}
+            cy={1.1603590387951703}
+            fill="white"
+            filter="url(#blur-star-130)"
+            r={0.38678634626505676}
+            stroke="#281f60"
+            strokeWidth={0.7356323330542982} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "345ms",
+            "animationDuration": "505ms",
+            "left": "65.82661479921153%",
+            "top": "77.74834479460495%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-slowFade_qlxf0z"
+          height={6.485200638626234}
+          style={
+            Object {
+              "animationDelay": "1837ms",
+              "animationDuration": "14.111218331863913s",
+            }
+          }
+          width={6.485200638626234}>
+          <filter
+            height="1000%"
+            id="blur-star-131"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.4772939030998712} />
+          </filter>
+          <circle
+            cx={3.242600319313117}
+            cy={3.242600319313117}
+            fill="white"
+            filter="url(#blur-star-131)"
+            r={1.0808667731043724}
+            stroke="#281f60"
+            strokeWidth={0.42813673213926323} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "145ms",
+            "animationDuration": "2129ms",
+            "left": "36.022741778820674%",
+            "top": "69.65061472269805%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-blinkOut_1l6jjxy"
+          height={8.867016635799002}
+          style={
+            Object {
+              "animationDelay": "2384ms",
+              "animationDuration": "19.388417920039245s",
+            }
+          }
+          width={8.867016635799002}>
+          <filter
+            height="1000%"
+            id="blur-star-132"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.40321901785144953} />
+          </filter>
+          <circle
+            cx={4.433508317899501}
+            cy={4.433508317899501}
+            fill="white"
+            filter="url(#blur-star-132)"
+            r={1.4778361059665004}
+            stroke="#281f60"
+            strokeWidth={0.2705064886781208} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "410ms",
+            "animationDuration": "3807ms",
+            "left": "3.305528453981549%",
+            "top": "46.49046283821202%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-pulse_1p7c6ab"
+          height={1.7906463031082696}
+          style={
+            Object {
+              "animationDelay": "1851ms",
+              "animationDuration": "19.168209928713836s",
+            }
+          }
+          width={1.7906463031082696}>
+          <filter
+            height="1000%"
+            id="blur-star-133"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.21323927071815707} />
+          </filter>
+          <circle
+            cx={0.8953231515541348}
+            cy={0.8953231515541348}
+            fill="white"
+            filter="url(#blur-star-133)"
+            r={0.2984410505180449}
+            stroke="#281f60"
+            strokeWidth={0.47192095134041706} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "27ms",
+            "animationDuration": "1864ms",
+            "left": "7.237156995472027%",
+            "top": "72.99230537292307%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-grower_1orjwfg"
+          height={2.9307524741467814}
+          style={
+            Object {
+              "animationDelay": "2588ms",
+              "animationDuration": "16.40781098552748s",
+            }
+          }
+          width={2.9307524741467814}>
+          <filter
+            height="1000%"
+            id="blur-star-134"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.2576890079772173} />
+          </filter>
+          <circle
+            cx={1.4653762370733907}
+            cy={1.4653762370733907}
+            fill="white"
+            filter="url(#blur-star-134)"
+            r={0.48845874569113024}
+            stroke="#281f60"
+            strokeWidth={0.38221550271027105} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "801ms",
+            "animationDuration": "965ms",
+            "left": "86.80723755978907%",
+            "top": "5.364649104790026%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-pulse_1p7c6ab"
+          height={5.823059015386203}
+          style={
+            Object {
+              "animationDelay": "146ms",
+              "animationDuration": "18.0292099788729s",
+            }
+          }
+          width={5.823059015386203}>
+          <filter
+            height="1000%"
+            id="blur-star-135"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.28616761199747975} />
+          </filter>
+          <circle
+            cx={2.9115295076931016}
+            cy={2.9115295076931016}
+            fill="white"
+            filter="url(#blur-star-135)"
+            r={0.9705098358977005}
+            stroke="#281f60"
+            strokeWidth={0.12193404514717016} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "217ms",
+            "animationDuration": "1163ms",
+            "left": "10.678009050245292%",
+            "top": "5.078531848367234%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-blinkOut_1l6jjxy"
+          height={6.2003212629077975}
+          style={
+            Object {
+              "animationDelay": "970ms",
+              "animationDuration": "9.851466179370801s",
+            }
+          }
+          width={6.2003212629077975}>
+          <filter
+            height="1000%"
+            id="blur-star-136"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.48382526604657927} />
+          </filter>
+          <circle
+            cx={3.1001606314538988}
+            cy={3.1001606314538988}
+            fill="white"
+            filter="url(#blur-star-136)"
+            r={1.0333868771512995}
+            stroke="#281f60"
+            strokeWidth={0.6881037469525817} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "173ms",
+            "animationDuration": "3981ms",
+            "left": "71.71127616703177%",
+            "top": "38.36685359061819%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-blinkOut_1l6jjxy"
+          height={2.6577768940513415}
+          style={
+            Object {
+              "animationDelay": "1506ms",
+              "animationDuration": "13.720594211889905s",
+            }
+          }
+          width={2.6577768940513415}>
+          <filter
+            height="1000%"
+            id="blur-star-137"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.23994261573989928} />
+          </filter>
+          <circle
+            cx={1.3288884470256708}
+            cy={1.3288884470256708}
+            fill="white"
+            filter="url(#blur-star-137)"
+            r={0.4429628156752236}
+            stroke="#281f60"
+            strokeWidth={0.14938997046769253} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "283ms",
+            "animationDuration": "66ms",
+            "left": "80.77537878690872%",
+            "top": "72.96401058550725%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-slowFade_qlxf0z"
+          height={3.957546669558867}
+          style={
+            Object {
+              "animationDelay": "853ms",
+              "animationDuration": "14.770592594141132s",
+            }
+          }
+          width={3.957546669558867}>
+          <filter
+            height="1000%"
+            id="blur-star-138"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.4679521430019856} />
+          </filter>
+          <circle
+            cx={1.9787733347794334}
+            cy={1.9787733347794334}
+            fill="white"
+            filter="url(#blur-star-138)"
+            r={0.6595911115931444}
+            stroke="#281f60"
+            strokeWidth={0.41402576314940953} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "64ms",
+            "animationDuration": "1207ms",
+            "left": "94.95114671694908%",
+            "top": "37.57184548252534%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-pulse_1p7c6ab"
+          height={2.604957700519107}
+          style={
+            Object {
+              "animationDelay": "487ms",
+              "animationDuration": "8.006928190437186s",
+            }
+          }
+          width={2.604957700519107}>
+          <filter
+            height="1000%"
+            id="blur-star-139"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.4429496671855804} />
+          </filter>
+          <circle
+            cx={1.3024788502595535}
+            cy={1.3024788502595535}
+            fill="white"
+            filter="url(#blur-star-139)"
+            r={0.4341596167531845}
+            stroke="#281f60"
+            strokeWidth={0.6135825013038179} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "62ms",
+            "animationDuration": "739ms",
+            "left": "33.178606090229195%",
+            "top": "95.44194771784353%",
+          }
+        }>
+        <svg
+          className="star_16oth9z"
+          height={6.54530398404359}
+          style={
+            Object {
+              "animationDelay": "2765ms",
+              "animationDuration": "8.362623950441703s",
+            }
+          }
+          width={6.54530398404359}>
+          <filter
+            height="1000%"
+            id="blur-star-140"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.14214935822077912} />
+          </filter>
+          <circle
+            cx={3.272651992021795}
+            cy={3.272651992021795}
+            fill="white"
+            filter="url(#blur-star-140)"
+            r={1.0908839973405984}
+            stroke="#281f60"
+            strokeWidth={0.16786548243813154} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "358ms",
+            "animationDuration": "1217ms",
+            "left": "97.58214945017045%",
+            "top": "67.62846930225636%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-pulse_1p7c6ab"
+          height={5.430434808689137}
+          style={
+            Object {
+              "animationDelay": "467ms",
+              "animationDuration": "18.054252718887767s",
+            }
+          }
+          width={5.430434808689137}>
+          <filter
+            height="1000%"
+            id="blur-star-141"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.34598330137908706} />
+          </filter>
+          <circle
+            cx={2.7152174043445685}
+            cy={2.7152174043445685}
+            fill="white"
+            filter="url(#blur-star-141)"
+            r={0.9050724681148562}
+            stroke="#281f60"
+            strokeWidth={0.5308291245374805} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "291ms",
+            "animationDuration": "2163ms",
+            "left": "3.577378515111678%",
+            "top": "47.421022329528064%",
+          }
+        }>
+        <svg
+          className="star_16oth9z"
+          height={4.537561672714379}
+          style={
+            Object {
+              "animationDelay": "2827ms",
+              "animationDuration": "9.081933726554208s",
+            }
+          }
+          width={4.537561672714379}>
+          <filter
+            height="1000%"
+            id="blur-star-142"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.4451961273528662} />
+          </filter>
+          <circle
+            cx={2.2687808363571893}
+            cy={2.2687808363571893}
+            fill="white"
+            filter="url(#blur-star-142)"
+            r={0.7562602787857298}
+            stroke="#281f60"
+            strokeWidth={0.2816061634626196} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "8ms",
+            "animationDuration": "1414ms",
+            "left": "72.00040880137226%",
+            "top": "97.57154216461689%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-grower_1orjwfg"
+          height={8.988441705596781}
+          style={
+            Object {
+              "animationDelay": "1523ms",
+              "animationDuration": "14.423360098282105s",
+            }
+          }
+          width={8.988441705596781}>
+          <filter
+            height="1000%"
+            id="blur-star-143"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.19264598448739964} />
+          </filter>
+          <circle
+            cx={4.4942208527983905}
+            cy={4.4942208527983905}
+            fill="white"
+            filter="url(#blur-star-143)"
+            r={1.4980736175994633}
+            stroke="#281f60"
+            strokeWidth={0.15602707411828942} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "135ms",
+            "animationDuration": "3703ms",
+            "left": "94.33228869865223%",
+            "top": "92.64342892249589%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-grower_1orjwfg"
+          height={4.970558075992859}
+          style={
+            Object {
+              "animationDelay": "1956ms",
+              "animationDuration": "11.321514355434674s",
+            }
+          }
+          width={4.970558075992859}>
+          <filter
+            height="1000%"
+            id="blur-star-144"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.35308591959941904} />
+          </filter>
+          <circle
+            cx={2.4852790379964294}
+            cy={2.4852790379964294}
+            fill="white"
+            filter="url(#blur-star-144)"
+            r={0.8284263459988098}
+            stroke="#281f60"
+            strokeWidth={0.17942345893726647} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "910ms",
+            "animationDuration": "3501ms",
+            "left": "87.93139261642825%",
+            "top": "97.7086791227128%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-slowFade_qlxf0z"
+          height={8.058242687102062}
+          style={
+            Object {
+              "animationDelay": "993ms",
+              "animationDuration": "7.755380636843511s",
+            }
+          }
+          width={8.058242687102062}>
+          <filter
+            height="1000%"
+            id="blur-star-145"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.24165423821727325} />
+          </filter>
+          <circle
+            cx={4.029121343551031}
+            cy={4.029121343551031}
+            fill="white"
+            filter="url(#blur-star-145)"
+            r={1.3430404478503437}
+            stroke="#281f60"
+            strokeWidth={0.6606869335887573} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "164ms",
+            "animationDuration": "1042ms",
+            "left": "45.796909283919206%",
+            "top": "78.50471908873199%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-dormant_bmsd38"
+          height={8.377511532539373}
+          style={
+            Object {
+              "animationDelay": "2279ms",
+              "animationDuration": "6.545288660442205s",
+            }
+          }
+          width={8.377511532539373}>
+          <filter
+            height="1000%"
+            id="blur-star-146"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.17947812888112075} />
+          </filter>
+          <circle
+            cx={4.188755766269686}
+            cy={4.188755766269686}
+            fill="white"
+            filter="url(#blur-star-146)"
+            r={1.3962519220898955}
+            stroke="#281f60"
+            strokeWidth={0.72745120627756} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "378ms",
+            "animationDuration": "485ms",
+            "left": "65.92387258614798%",
+            "top": "56.42373576577758%",
+          }
+        }>
+        <svg
+          className="star_16oth9z"
+          height={5.582022783591178}
+          style={
+            Object {
+              "animationDelay": "2244ms",
+              "animationDuration": "19.148403848486012s",
+            }
+          }
+          width={5.582022783591178}>
+          <filter
+            height="1000%"
+            id="blur-star-147"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.3900181590595029} />
+          </filter>
+          <circle
+            cx={2.791011391795589}
+            cy={2.791011391795589}
+            fill="white"
+            filter="url(#blur-star-147)"
+            r={0.9303371305985297}
+            stroke="#281f60"
+            strokeWidth={0.0639990099477038} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "518ms",
+            "animationDuration": "1209ms",
+            "left": "11.624032820278074%",
+            "top": "63.527667142221645%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-grower_1orjwfg"
+          height={5.3943627465718045}
+          style={
+            Object {
+              "animationDelay": "641ms",
+              "animationDuration": "10.435078394892475s",
+            }
+          }
+          width={5.3943627465718045}>
+          <filter
+            height="1000%"
+            id="blur-star-148"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.1260695225308357} />
+          </filter>
+          <circle
+            cx={2.6971813732859022}
+            cy={2.6971813732859022}
+            fill="white"
+            filter="url(#blur-star-148)"
+            r={0.8990604577619674}
+            stroke="#281f60"
+            strokeWidth={0.7311391210752478} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "801ms",
+            "animationDuration": "1534ms",
+            "left": "86.45416315794746%",
+            "top": "48.23685224493013%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-sideShift_10dabe7"
+          height={2.0830957665427867}
+          style={
+            Object {
+              "animationDelay": "969ms",
+              "animationDuration": "11.099323613421108s",
+            }
+          }
+          width={2.0830957665427867}>
+          <filter
+            height="1000%"
+            id="blur-star-149"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.4217106311415051} />
+          </filter>
+          <circle
+            cx={1.0415478832713934}
+            cy={1.0415478832713934}
+            fill="white"
+            filter="url(#blur-star-149)"
+            r={0.3471826277571311}
+            stroke="#281f60"
+            strokeWidth={0.0599671339780376} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "345ms",
+            "animationDuration": "108ms",
+            "left": "18.986433536243634%",
+            "top": "58.05254162737798%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-grower_1orjwfg"
+          height={5.75716276093135}
+          style={
+            Object {
+              "animationDelay": "862ms",
+              "animationDuration": "5.126898775003141s",
+            }
+          }
+          width={5.75716276093135}>
+          <filter
+            height="1000%"
+            id="blur-star-150"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.19182845117086889} />
+          </filter>
+          <circle
+            cx={2.878581380465675}
+            cy={2.878581380465675}
+            fill="white"
+            filter="url(#blur-star-150)"
+            r={0.9595271268218917}
+            stroke="#281f60"
+            strokeWidth={0.5340245176825057} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "922ms",
+            "animationDuration": "2091ms",
+            "left": "21.008704511640794%",
+            "top": "1.5044561680654538%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-pulse_1p7c6ab"
+          height={6.040620712740619}
+          style={
+            Object {
+              "animationDelay": "1156ms",
+              "animationDuration": "12.929127476828226s",
+            }
+          }
+          width={6.040620712740619}>
+          <filter
+            height="1000%"
+            id="blur-star-151"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.24591944677194963} />
+          </filter>
+          <circle
+            cx={3.0203103563703095}
+            cy={3.0203103563703095}
+            fill="white"
+            filter="url(#blur-star-151)"
+            r={1.0067701187901033}
+            stroke="#281f60"
+            strokeWidth={0.3428404529624014} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "716ms",
+            "animationDuration": "1160ms",
+            "left": "62.23080080534148%",
+            "top": "70.37407026499497%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-slowFade_qlxf0z"
+          height={6.964496086208348}
+          style={
+            Object {
+              "animationDelay": "1198ms",
+              "animationDuration": "5.469797115639983s",
+            }
+          }
+          width={6.964496086208348}>
+          <filter
+            height="1000%"
+            id="blur-star-152"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.13386840491325389} />
+          </filter>
+          <circle
+            cx={3.482248043104174}
+            cy={3.482248043104174}
+            fill="white"
+            filter="url(#blur-star-152)"
+            r={1.1607493477013913}
+            stroke="#281f60"
+            strokeWidth={0.5690418929885628} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "91ms",
+            "animationDuration": "2481ms",
+            "left": "81.61178140800499%",
+            "top": "74.30383301514469%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-grower_1orjwfg"
+          height={6.4583859120155305}
+          style={
+            Object {
+              "animationDelay": "1404ms",
+              "animationDuration": "14.040200912733667s",
+            }
+          }
+          width={6.4583859120155305}>
+          <filter
+            height="1000%"
+            id="blur-star-153"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.45749382772361746} />
+          </filter>
+          <circle
+            cx={3.2291929560077652}
+            cy={3.2291929560077652}
+            fill="white"
+            filter="url(#blur-star-153)"
+            r={1.0763976520025884}
+            stroke="#281f60"
+            strokeWidth={0.49730402531534723} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "384ms",
+            "animationDuration": "3757ms",
+            "left": "51.35372773105225%",
+            "top": "78.08755243871772%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-slowFade_qlxf0z"
+          height={1.9921198271760374}
+          style={
+            Object {
+              "animationDelay": "2885ms",
+              "animationDuration": "17.44546251480955s",
+            }
+          }
+          width={1.9921198271760374}>
+          <filter
+            height="1000%"
+            id="blur-star-154"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.19725597823668084} />
+          </filter>
+          <circle
+            cx={0.9960599135880187}
+            cy={0.9960599135880187}
+            fill="white"
+            filter="url(#blur-star-154)"
+            r={0.33201997119600624}
+            stroke="#281f60"
+            strokeWidth={0.719208085160231} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "92ms",
+            "animationDuration": "1371ms",
+            "left": "12.183998538703426%",
+            "top": "31.0496797562762%",
+          }
+        }>
+        <svg
+          className="star_16oth9z"
+          height={5.239733665065391}
+          style={
+            Object {
+              "animationDelay": "1266ms",
+              "animationDuration": "13.698131778206747s",
+            }
+          }
+          width={5.239733665065391}>
+          <filter
+            height="1000%"
+            id="blur-star-155"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.41814612007313223} />
+          </filter>
+          <circle
+            cx={2.6198668325326957}
+            cy={2.6198668325326957}
+            fill="white"
+            filter="url(#blur-star-155)"
+            r={0.8732889441775652}
+            stroke="#281f60"
+            strokeWidth={0.3383213996690427} />
+        </svg>
+      </div>
+      <div
+        className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+        style={
+          Object {
+            "animationDelay": "669ms",
+            "animationDuration": "2563ms",
+            "left": "89.02077801932015%",
+            "top": "3.3609015410593814%",
+          }
+        }>
+        <svg
+          className="star_16oth9z-o_O-pulse_1p7c6ab"
+          height={2.7498110750173472}
+          style={
+            Object {
+              "animationDelay": "1687ms",
+              "animationDuration": "17.259066002797795s",
+            }
+          }
+          width={2.7498110750173472}>
+          <filter
+            height="1000%"
+            id="blur-star-156"
+            width="1000%"
+            x="-100%"
+            y="-100%">
+            <feGaussianBlur
+              in="SourceGraphic"
+              stdDeviation={0.34712980386894465} />
+          </filter>
+          <circle
+            cx={1.3749055375086736}
+            cy={1.3749055375086736}
+            fill="white"
+            filter="url(#blur-star-156)"
+            r={0.4583018458362246}
+            stroke="#281f60"
+            strokeWidth={0.3169100235008429} />
+        </svg>
+      </div>
+    </div>
+  </div>
+</div>
+`;

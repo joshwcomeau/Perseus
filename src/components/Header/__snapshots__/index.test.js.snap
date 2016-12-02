@@ -1,0 +1,6 @@
+exports[`Header renders correctly 1`] = `
+<div
+  className="header_120drhm">
+  Your Component Here :)
+</div>
+`;

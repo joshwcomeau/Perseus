@@ -1,0 +1,42 @@
+exports[`Star renders correctly 1`] = `
+<div
+  className="starContainer_15kzu1c-o_O-fadeIn_1xfqppp"
+  style={
+    Object {
+      "animationDelay": "519ms",
+      "animationDuration": "1550ms",
+      "left": undefined,
+      "top": undefined,
+    }
+  }>
+  <svg
+    className="star_16oth9z-o_O-bright_1fuysop"
+    height={NaN}
+    style={
+      Object {
+        "animationDelay": "2977ms",
+        "animationDuration": "18.23545110578995s",
+      }
+    }
+    width={NaN}>
+    <filter
+      height="1000%"
+      id="blur-undefined"
+      width="1000%"
+      x="-100%"
+      y="-100%">
+      <feGaussianBlur
+        in="SourceGraphic"
+        stdDeviation={undefined} />
+    </filter>
+    <circle
+      cx={NaN}
+      cy={NaN}
+      fill="white"
+      filter="url(#blur-undefined)"
+      r={NaN}
+      stroke="#281f60"
+      strokeWidth={undefined} />
+  </svg>
+</div>
+`;

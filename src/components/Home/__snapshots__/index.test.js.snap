@@ -1,0 +1,23 @@
+exports[`Home renders correctly 1`] = `
+<div
+  className="home_117m6hr">
+  <h2
+    className="logo_1d4z0p1">
+    Perseus
+  </h2>
+  <p>
+    Learn about the people who\'ve starred your repositories.
+  </p>
+  <form
+    onSubmit={[Function]}>
+    <input
+      type="text" />
+    /
+    <input
+      type="text" />
+    <button>
+      Go
+    </button>
+  </form>
+</div>
+`;
