@@ -5,7 +5,9 @@ import ApolloClient, { createNetworkInterface } from 'apollo-client';
 // This token is associated with an empty account with no repositories, though,
 // so the worst that can happen is that someone creates a bunch of repos, or
 // invalidates the token. ¯\_(ツ)_/¯
-const TOKEN = '7caa202514b644bba3ce6e89ecdba8c622838a1d';
+// It's defined in config/secrets.js, and injected using definePlugin on build.
+// eslint-disable-next-line no-undef
+const TOKEN = process.env.GITHUB_OAUTH_TOKEN;
 
 const URI = 'https://api.github.com/graphql';
 
